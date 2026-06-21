@@ -13,5 +13,20 @@
     "is_repost": false,
     "id": "ext_1782024935330_hannwvvec",
     "approved_at": "2026-06-21T06:55:40.978Z"
+  },
+  {
+    "name": "gdys",
+    "description": "gd",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1782024829271_3w4w47lt6_gdys.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1782024829271_3w4w47lt6_gdys.webp",
+    "category": [
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "001",
+    "author_id": 2,
+    "is_repost": false,
+    "id": "ext_1782024944565_mvcae0p7y",
+    "approved_at": "2026-06-21T06:55:45.548Z"
   }
 ]
