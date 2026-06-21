@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "111",
+    "description": "111",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1782025375049_xik1p81kt_111.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1782025375049_xik1p81kt_111.webp",
+    "category": [
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "001",
+    "author_id": 2,
+    "is_repost": false,
+    "submitted_at": "2026-06-21T07:02:59.706Z",
+    "github_file_path": "review/files/submit_1782025375049_xik1p81kt_111.js",
+    "github_cover_path": "review/covers/submit_1782025375049_xik1p81kt_111.webp",
+    "submit_id": "submit_1782025379707_455nhnyy9",
+    "submitted_by": 2
+  }
+]
