@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "高度运算",
+    "description": "00",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1783860534805_8sq2775tx_高度运算.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1783860534805_8sq2775tx_高度运算.webp",
+    "category": [
+      "实用",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 2,
+    "is_repost": false,
+    "id": "ext_1783860534805_8sq2775tx",
+    "approved_at": "2026-07-12T12:49:31.873Z"
+  }
+]
