@@ -46,21 +46,5 @@
     "is_repost": false,
     "id": "ext_1783858556814_02cp297no",
     "approved_at": "2026-07-12T12:16:15.143Z"
-  },
-  {
-    "name": "高度运算",
-    "description": "00",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1783858564250_nalqanlz2_高度运算.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1783858503889_q9dtp4xxw_高度运算.webp",
-    "category": [
-      "运算",
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 2,
-    "is_repost": false,
-    "id": "ext_1783858564250_nalqanlz2",
-    "approved_at": "2026-07-12T12:16:39.117Z"
   }
 ]
