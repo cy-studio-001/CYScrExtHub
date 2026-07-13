@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "name": "高度运算1",
+    "description": "0\r\n1",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1783945295683_2xey6932k_高度运算1.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1783945295683_2xey6932k_高度运算1.webp",
+    "category": [
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.1",
+    "author_name": "cy_studio",
+    "author_id": 2,
+    "is_repost": false,
+    "submitted_at": "2026-07-13T12:21:39.807Z",
+    "github_file_path": "review/files/submit_1783945295683_2xey6932k_高度运算1.js",
+    "github_cover_path": "review/covers/submit_1783945295683_2xey6932k_高度运算1.webp",
+    "mode": "update",
+    "update_extension_id": "ext_1783944407311_0dyhz3cnp",
+    "original_id": "ext_1783944407311_0dyhz3cnp",
+    "previous_version": {
+      "version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1783944407311_0dyhz3cnp_高度运算.js",
+      "approved_at": "2026-07-13T12:07:25.021Z"
+    },
+    "submit_id": "submit_1783945299807_v9vka3vws",
+    "submitted_by": 2
+  }
+]
