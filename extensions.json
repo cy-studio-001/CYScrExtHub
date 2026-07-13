@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "高度运算",
+    "description": "00",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1783929183399_9pv6uwqxf_高度运算.js",
+    "category": [
+      "游戏",
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 2,
+    "is_repost": false,
+    "id": "ext_1783929183399_9pv6uwqxf",
+    "approved_at": "2026-07-13T07:53:08.831Z"
+  }
+]
