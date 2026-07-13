@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "name": "高度运算",
+    "description": "方法",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1783917567673_vg5go9y8p_高度运算.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1783917567673_vg5go9y8p_高度运算.webp",
+    "category": [
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 2,
+    "is_repost": true,
+    "original_author": "44",
+    "submitted_at": "2026-07-13T04:39:33.408Z",
+    "github_file_path": "review/files/submit_1783917567673_vg5go9y8p_高度运算.js",
+    "github_cover_path": "review/covers/submit_1783917567673_vg5go9y8p_高度运算.webp",
+    "submit_id": "submit_1783917573409_sx3axi9r5",
+    "submitted_by": 2
+  }
+]
