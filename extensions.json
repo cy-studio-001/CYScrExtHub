@@ -29,5 +29,22 @@
     "original_author": "11",
     "id": "ext_1783998477137_ojn4pomyw",
     "approved_at": "2026-07-14T03:08:01.900Z"
+  },
+  {
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784010633696_i0z7h4y60_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784010633696_i0z7h4y60_01.png",
+    "category": [
+      "多媒体",
+      "实用",
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "id": "ext_1784010633696_i0z7h4y60",
+    "approved_at": "2026-07-14T06:30:39.524Z"
   }
 ]
