@@ -1,5 +1,20 @@
 [
   {
+    "name": "测试01",
+    "description": "测试01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784025792325_33gv0voee_测试01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784025792325_33gv0voee_测试01.webp",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "id": "ext_1784025792325_33gv0voee",
+    "approved_at": "2026-07-14T10:43:19.274Z"
+  },
+  {
     "name": "UI工具箱",
     "description": "UI工具箱-更全面的UI系统",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784024301483_pjs12imum_UI工具箱.js",
@@ -15,10 +30,10 @@
     "approved_at": "2026-07-14T10:18:25.387Z"
   },
   {
-    "name": "测试01",
-    "description": "测试01",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784025792325_33gv0voee_测试01.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784025792325_33gv0voee_测试01.webp",
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784028860317_4awyso3hg_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784028860317_4awyso3hg_01.jpg",
     "category": [
       "实用"
     ],
@@ -26,7 +41,7 @@
     "author_name": "cy_studio",
     "author_id": 1,
     "is_repost": false,
-    "id": "ext_1784025792325_33gv0voee",
-    "approved_at": "2026-07-14T10:43:19.274Z"
+    "id": "ext_1784028860317_4awyso3hg",
+    "approved_at": "2026-07-14T11:34:24.342Z"
   }
 ]
