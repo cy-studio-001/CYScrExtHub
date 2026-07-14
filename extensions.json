@@ -29,5 +29,22 @@
     "original_author": "11",
     "id": "ext_1783998477137_ojn4pomyw",
     "approved_at": "2026-07-14T03:08:01.900Z"
+  },
+  {
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784012555896_yohk96lq7_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784012555896_yohk96lq7_01.jpg",
+    "category": [
+      "CYSO",
+      "运算",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "01",
+    "author_id": 2,
+    "is_repost": false,
+    "id": "ext_1784012555896_yohk96lq7",
+    "approved_at": "2026-07-14T07:02:41.027Z"
   }
 ]
