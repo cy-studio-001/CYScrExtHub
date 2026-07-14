@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "0",
+    "description": "0",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784018967529_v197qom1a_0.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784018967529_v197qom1a_0.jpg",
+    "category": [
+      "CYSO",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": true,
+    "original_author": "https://www.bilibili.com",
+    "submit_id": "submit_1784018970476_qegdjy2qf",
+    "github_file_path": "disuse/files/submit_1784018967529_v197qom1a_0.js",
+    "github_cover_path": "disuse/covers/submit_1784018967529_v197qom1a_0.jpg",
+    "disused_at": "2026-07-14T08:51:10.751Z",
+    "reason": "测试：拒绝"
+  }
+]
