@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784030315290_4uwef7sap_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784030315290_4uwef7sap_01.jpg",
+    "category": [
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-07-14T11:58:40.257Z",
+    "github_file_path": "review/files/submit_1784030315290_4uwef7sap_01.js",
+    "github_cover_path": "review/covers/submit_1784030315290_4uwef7sap_01.jpg",
+    "is_cyso": false,
+    "submit_id": "submit_1784030320257_xmj3m1byl",
+    "submitted_by": 1
+  }
+]
