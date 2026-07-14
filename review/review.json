@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784012520696_k5hjiq023_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784012520696_k5hjiq023_01.jpg",
+    "category": [
+      "CYSO",
+      "运算",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "01",
+    "author_id": 2,
+    "is_repost": false,
+    "submitted_at": "2026-07-14T07:02:04.836Z",
+    "github_file_path": "review/files/submit_1784012520696_k5hjiq023_01.js",
+    "github_cover_path": "review/covers/submit_1784012520696_k5hjiq023_01.jpg",
+    "is_cyso": true,
+    "submit_id": "submit_1784012524838_8ffn1ikrq",
+    "submitted_by": 2
+  }
+]
