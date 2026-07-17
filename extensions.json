@@ -286,5 +286,23 @@
     "id": "ext_1784262927067_vm4ymdb1b",
     "approved_at": "2026-07-17T04:35:32.854Z",
     "is_cyso": false
+  },
+  {
+    "name": "网页控制+",
+    "description": "网页控制+",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784262994182_l4xyqkczo_网页控制_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784262994182_l4xyqkczo_网页控制_.png",
+    "category": [
+      "实用",
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:16:49.627Z",
+    "id": "ext_1784262994182_l4xyqkczo",
+    "approved_at": "2026-07-17T04:36:39.755Z",
+    "is_cyso": false
   }
 ]
