@@ -17,5 +17,22 @@
     "id": "ext_1784261581575_65pi4lbto",
     "approved_at": "2026-07-17T04:13:07.304Z",
     "is_cyso": false
+  },
+  {
+    "name": "MarkDown弹窗",
+    "description": "MarkDown弹窗-更好的弹窗",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784261670683_0wghtzmnf_MarkDown弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784261670683_0wghtzmnf_MarkDown弹窗.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:08:14.820Z",
+    "id": "ext_1784261670683_0wghtzmnf",
+    "approved_at": "2026-07-17T04:14:35.861Z",
+    "is_cyso": false
   }
 ]
