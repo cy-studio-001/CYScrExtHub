@@ -323,5 +323,24 @@
     "id": "ext_1784263740999_2lprw7rn0",
     "approved_at": "2026-07-17T04:49:01.247Z",
     "is_cyso": false
+  },
+  {
+    "name": "着色器+",
+    "description": "自制着色器的快乐谁懂?",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784263818807_u6riupcnh_着色器_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784263818807_u6riupcnh_着色器_.png",
+    "category": [
+      "实用",
+      "网络",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:17:57.293Z",
+    "id": "ext_1784263818807_u6riupcnh",
+    "approved_at": "2026-07-17T04:50:24.829Z",
+    "is_cyso": false
   }
 ]
