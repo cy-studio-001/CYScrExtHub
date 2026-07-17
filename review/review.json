@@ -157,5 +157,25 @@
     "is_cyso": false,
     "submit_id": "submit_1784261599667_qvxdc5a1l",
     "submitted_by": 3
+  },
+  {
+    "name": "高斯模糊+",
+    "description": "更强的高斯模糊",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261630391_k0vzye9h7_高斯模糊_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261630391_k0vzye9h7_高斯模糊_.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:13:53.979Z",
+    "github_file_path": "review/files/submit_1784261630391_k0vzye9h7_高斯模糊_.js",
+    "github_cover_path": "review/covers/submit_1784261630391_k0vzye9h7_高斯模糊_.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784261633979_9e5kgoh40",
+    "submitted_by": 3
   }
 ]
