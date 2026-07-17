@@ -69,5 +69,22 @@
     "id": "ext_1784261807812_bt3xq7aoa",
     "approved_at": "2026-07-17T04:16:54.973Z",
     "is_cyso": false
+  },
+  {
+    "name": "高级封屏",
+    "description": "防止F12",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784261994364_tni5h8i9o_高级封屏.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784261994364_tni5h8i9o_高级封屏.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:10:53.430Z",
+    "id": "ext_1784261994364_tni5h8i9o",
+    "approved_at": "2026-07-17T04:19:59.425Z",
+    "is_cyso": false
   }
 ]
