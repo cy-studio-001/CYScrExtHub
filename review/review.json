@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "HTML",
+    "description": "强大的HTML",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261042043_h0e161f3q_HTML.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261042043_h0e161f3q_HTML.png",
+    "category": [
+      "实用",
+      "网络",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:04:18.699Z",
+    "github_file_path": "review/files/submit_1784261042043_h0e161f3q_HTML.js",
+    "github_cover_path": "review/covers/submit_1784261042043_h0e161f3q_HTML.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784261058699_v5i4xxcr0",
+    "submitted_by": 3
+  }
+]
