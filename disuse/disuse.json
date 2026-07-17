@@ -76,5 +76,24 @@
     "github_cover_path": "disuse/covers/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.png",
     "disused_at": "2026-07-17T05:26:17.201Z",
     "reason": "扩展名称不符；存在操作bug；用户体验不佳；"
+  },
+  {
+    "name": "电脑应用管理",
+    "description": "电脑应用管理",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784262243977_yxiior4qw_电脑应用管理.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:24:07.722Z",
+    "submit_id": "submit_1784262247722_cdvfaubik",
+    "github_file_path": "disuse/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
+    "github_cover_path": "disuse/covers/submit_1784262243977_yxiior4qw_电脑应用管理.png",
+    "disused_at": "2026-07-17T05:36:29.433Z",
+    "reason": "操作体验问题。\n建议添加过滤参数防注入；强制结束前弹窗确认；菜单改为动态生成或提供刷新机制；增加状态返回积木。"
   }
 ]
