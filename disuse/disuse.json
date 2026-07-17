@@ -19,5 +19,24 @@
     "github_cover_path": "disuse/covers/submit_1784262004034_sdq9tawy9_CYSO官方API.png",
     "disused_at": "2026-07-17T04:55:43.280Z",
     "reason": "扩展存在使用体验问题。后期会更新编辑器官方整合扩展。谢谢"
+  },
+  {
+    "name": "电脑高级控制",
+    "description": "电脑高级控制",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784262027614_scp4k58xd_电脑高级控制.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784262027614_scp4k58xd_电脑高级控制.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:20:30.911Z",
+    "submit_id": "submit_1784262030911_g3no8ghtq",
+    "github_file_path": "disuse/files/submit_1784262027614_scp4k58xd_电脑高级控制.js",
+    "github_cover_path": "disuse/covers/submit_1784262027614_scp4k58xd_电脑高级控制.png",
+    "disused_at": "2026-07-17T05:03:14.352Z",
+    "reason": "扩展存在操作和安全问题。"
   }
 ]
