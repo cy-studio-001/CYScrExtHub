@@ -135,5 +135,25 @@
     "is_cyso": false,
     "submit_id": "submit_1784261522126_l4xh6r9qj",
     "submitted_by": 3
+  },
+  {
+    "name": "灵动弹窗",
+    "description": "更灵动的弹窗",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261549042_b8lp5y2l1_灵动弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261549042_b8lp5y2l1_灵动弹窗.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:12:32.474Z",
+    "github_file_path": "review/files/submit_1784261549042_b8lp5y2l1_灵动弹窗.js",
+    "github_cover_path": "review/covers/submit_1784261549042_b8lp5y2l1_灵动弹窗.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784261552474_9xlm5auss",
+    "submitted_by": 3
   }
 ]
