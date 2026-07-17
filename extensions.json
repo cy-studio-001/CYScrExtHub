@@ -51,5 +51,23 @@
     "id": "ext_1784261722930_jrjj6i9wq",
     "approved_at": "2026-07-17T04:15:28.902Z",
     "is_cyso": false
+  },
+  {
+    "name": "并行音频",
+    "description": "更好的音频系统",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784261807812_bt3xq7aoa_并行音频.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784261807812_bt3xq7aoa_并行音频.png",
+    "category": [
+      "多媒体",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:10:15.553Z",
+    "id": "ext_1784261807812_bt3xq7aoa",
+    "approved_at": "2026-07-17T04:16:54.973Z",
+    "is_cyso": false
   }
 ]
