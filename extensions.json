@@ -361,5 +361,22 @@
     "id": "ext_1784263860179_7mwne8wub",
     "approved_at": "2026-07-17T04:51:05.525Z",
     "is_cyso": false
+  },
+  {
+    "name": "电脑文档管理",
+    "description": "电脑文档管理",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784266195605_1b640w504_电脑文档管理.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784266195605_1b640w504_电脑文档管理.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:22:46.192Z",
+    "id": "ext_1784266195605_1b640w504",
+    "approved_at": "2026-07-17T05:30:01.764Z",
+    "is_cyso": true
   }
 ]
