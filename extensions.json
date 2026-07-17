@@ -376,5 +376,23 @@
     "id": "ext_1784266345114_bv3k32e6m",
     "approved_at": "2026-07-17T05:32:30.398Z",
     "is_cyso": true
+  },
+  {
+    "name": "日出日落计算器",
+    "description": "使用deepseek生成的可以计算太阳位置时间的扩展，使用suncalc，还拥有一些时间处理附加积木",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784294115696_7g47mnsr2_日出日落计算器.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784294115696_7g47mnsr2_日出日落计算器.png",
+    "category": [
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T13:10:11.965Z",
+    "id": "ext_1784294115696_7g47mnsr2",
+    "approved_at": "2026-07-17T13:15:30.538Z",
+    "is_cyso": false
   }
 ]
