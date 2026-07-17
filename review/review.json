@@ -1,24 +1,5 @@
 [
   {
-    "name": "电脑文档管理",
-    "description": "电脑文档管理",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262162780_lyodap4be_电脑文档管理.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784262162780_lyodap4be_电脑文档管理.png",
-    "category": [
-      "CYSO"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:22:46.192Z",
-    "github_file_path": "review/files/submit_1784262162780_lyodap4be_电脑文档管理.js",
-    "github_cover_path": "review/covers/submit_1784262162780_lyodap4be_电脑文档管理.png",
-    "is_cyso": true,
-    "submit_id": "submit_1784262166192_2j9csgsna",
-    "submitted_by": 3
-  },
-  {
     "name": "电脑文档分析",
     "description": "电脑文档分析",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262193936_8ejhbyud5_电脑文档分析.js",
