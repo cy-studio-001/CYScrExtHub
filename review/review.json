@@ -323,5 +323,24 @@
     "is_cyso": true,
     "submit_id": "submit_1784262050173_09b15q2id",
     "submitted_by": 3
+  },
+  {
+    "name": "CYSO电脑控制+",
+    "description": "CYSO电脑控制+",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:22:20.380Z",
+    "github_file_path": "review/files/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.js",
+    "github_cover_path": "review/covers/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784262140380_c79w249zv",
+    "submitted_by": 3
   }
 ]
