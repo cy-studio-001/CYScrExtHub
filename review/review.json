@@ -1,24 +1,5 @@
 [
   {
-    "name": "UI工具箱",
-    "description": "UI工具箱-更全面的UI系统",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261356577_w59b0qosx_UI工具箱.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261356577_w59b0qosx_UI工具箱.png",
-    "category": [
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:09:20.221Z",
-    "github_file_path": "review/files/submit_1784261356577_w59b0qosx_UI工具箱.js",
-    "github_cover_path": "review/covers/submit_1784261356577_w59b0qosx_UI工具箱.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784261360221_jfm7uzwii",
-    "submitted_by": 3
-  },
-  {
     "name": "并行音频",
     "description": "更好的音频系统",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261412271_902ucstu0_并行音频.js",
