@@ -1,25 +1,5 @@
 [
   {
-    "name": "高斯模糊",
-    "description": "高斯模糊装置",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261492308_haihbg2pl_高斯模糊.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261492308_haihbg2pl_高斯模糊.png",
-    "category": [
-      "实用",
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:11:35.752Z",
-    "github_file_path": "review/files/submit_1784261492308_haihbg2pl_高斯模糊.js",
-    "github_cover_path": "review/covers/submit_1784261492308_haihbg2pl_高斯模糊.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784261495752_byatrbpz2",
-    "submitted_by": 3
-  },
-  {
     "name": "剪切板+",
     "description": "剪切板管理器",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261518589_t52qdcopr_剪切板_.js",
