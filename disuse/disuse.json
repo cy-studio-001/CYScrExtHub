@@ -57,5 +57,24 @@
     "github_cover_path": "disuse/covers/submit_1784262046806_sf0aekbfp_定时操作.png",
     "disused_at": "2026-07-17T05:18:13.363Z",
     "reason": "抱歉...无法添加。建议优化逻辑，添加取消任务给你并优化性能，对于高危操作，建议需要用户确认并添加提醒"
+  },
+  {
+    "name": "CYSO电脑控制+",
+    "description": "CYSO电脑控制+",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:22:20.380Z",
+    "submit_id": "submit_1784262140380_c79w249zv",
+    "github_file_path": "disuse/files/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.js",
+    "github_cover_path": "disuse/covers/submit_1784262136752_ibo2po0tl_CYSO电脑控制_.png",
+    "disused_at": "2026-07-17T05:26:17.201Z",
+    "reason": "扩展名称不符；存在操作bug；用户体验不佳；"
   }
 ]
