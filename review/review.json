@@ -1,24 +1,5 @@
 [
   {
-    "name": "电脑文档分析",
-    "description": "电脑文档分析",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262193936_8ejhbyud5_电脑文档分析.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784262193936_8ejhbyud5_电脑文档分析.png",
-    "category": [
-      "CYSO"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:23:17.534Z",
-    "github_file_path": "review/files/submit_1784262193936_8ejhbyud5_电脑文档分析.js",
-    "github_cover_path": "review/covers/submit_1784262193936_8ejhbyud5_电脑文档分析.png",
-    "is_cyso": true,
-    "submit_id": "submit_1784262197534_6yp06zfki",
-    "submitted_by": 3
-  },
-  {
     "name": "电脑应用管理",
     "description": "电脑应用管理",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
