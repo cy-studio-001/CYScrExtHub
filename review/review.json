@@ -324,5 +324,24 @@
     "is_cyso": true,
     "submit_id": "submit_1784262008253_xi3t9mzdv",
     "submitted_by": 3
+  },
+  {
+    "name": "电脑高级控制",
+    "description": "电脑高级控制",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262027614_scp4k58xd_电脑高级控制.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784262027614_scp4k58xd_电脑高级控制.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:20:30.911Z",
+    "github_file_path": "review/files/submit_1784262027614_scp4k58xd_电脑高级控制.js",
+    "github_cover_path": "review/covers/submit_1784262027614_scp4k58xd_电脑高级控制.png",
+    "is_cyso": true,
+    "submit_id": "submit_1784262030911_g3no8ghtq",
+    "submitted_by": 3
   }
 ]
