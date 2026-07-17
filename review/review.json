@@ -77,5 +77,24 @@
     "is_cyso": false,
     "submit_id": "submit_1784261415553_nmu5ugnld",
     "submitted_by": 3
+  },
+  {
+    "name": "高级封屏",
+    "description": "防止F12",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261449804_mzbrv65tl_高级封屏.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261449804_mzbrv65tl_高级封屏.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:10:53.430Z",
+    "github_file_path": "review/files/submit_1784261449804_mzbrv65tl_高级封屏.js",
+    "github_cover_path": "review/covers/submit_1784261449804_mzbrv65tl_高级封屏.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784261453430_xss694y9i",
+    "submitted_by": 3
   }
 ]
