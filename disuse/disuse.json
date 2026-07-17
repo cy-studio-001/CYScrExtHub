@@ -38,5 +38,24 @@
     "github_cover_path": "disuse/covers/submit_1784262027614_scp4k58xd_电脑高级控制.png",
     "disused_at": "2026-07-17T05:03:14.352Z",
     "reason": "扩展存在操作和安全问题。"
+  },
+  {
+    "name": "定时操作",
+    "description": "定时操作",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784262046806_sf0aekbfp_定时操作.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784262046806_sf0aekbfp_定时操作.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:20:50.173Z",
+    "submit_id": "submit_1784262050173_09b15q2id",
+    "github_file_path": "disuse/files/submit_1784262046806_sf0aekbfp_定时操作.js",
+    "github_cover_path": "disuse/covers/submit_1784262046806_sf0aekbfp_定时操作.png",
+    "disused_at": "2026-07-17T05:18:13.363Z",
+    "reason": "抱歉...无法添加。建议优化逻辑，添加取消任务给你并优化性能，对于高危操作，建议需要用户确认并添加提醒"
   }
 ]
