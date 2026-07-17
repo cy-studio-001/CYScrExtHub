@@ -232,5 +232,23 @@
     "id": "ext_1784262656240_r105t0mw6",
     "approved_at": "2026-07-17T04:31:02.197Z",
     "is_cyso": false
+  },
+  {
+    "name": "网页嵌入",
+    "description": "网页嵌入",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784262733809_k8i6zlrm6_网页嵌入.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784262733809_k8i6zlrm6_网页嵌入.png",
+    "category": [
+      "实用",
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:15:35.629Z",
+    "id": "ext_1784262733809_k8i6zlrm6",
+    "approved_at": "2026-07-17T04:32:19.424Z",
+    "is_cyso": false
   }
 ]
