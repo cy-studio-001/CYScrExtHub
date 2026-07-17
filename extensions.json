@@ -86,5 +86,23 @@
     "id": "ext_1784261994364_tni5h8i9o",
     "approved_at": "2026-07-17T04:19:59.425Z",
     "is_cyso": false
+  },
+  {
+    "name": "高斯模糊",
+    "description": "高斯模糊装置",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784262057671_1hksjgi4s_高斯模糊.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784262057671_1hksjgi4s_高斯模糊.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:11:35.752Z",
+    "id": "ext_1784262057671_1hksjgi4s",
+    "approved_at": "2026-07-17T04:21:02.865Z",
+    "is_cyso": false
   }
 ]
