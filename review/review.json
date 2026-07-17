@@ -1,25 +1,5 @@
 [
   {
-    "name": "网页控制",
-    "description": "网页控制 2",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261711082_3o2l002g8_网页控制.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261711082_3o2l002g8_网页控制.png",
-    "category": [
-      "实用",
-      "网络"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:15:14.460Z",
-    "github_file_path": "review/files/submit_1784261711082_3o2l002g8_网页控制.js",
-    "github_cover_path": "review/covers/submit_1784261711082_3o2l002g8_网页控制.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784261714460_fcvbnaryx",
-    "submitted_by": 3
-  },
-  {
     "name": "网页嵌入",
     "description": "网页嵌入",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261732371_k5gnp83r7_网页嵌入.js",
