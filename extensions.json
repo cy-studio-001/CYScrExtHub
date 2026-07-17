@@ -104,5 +104,22 @@
     "id": "ext_1784262057671_1hksjgi4s",
     "approved_at": "2026-07-17T04:21:02.865Z",
     "is_cyso": false
+  },
+  {
+    "name": "剪切板+",
+    "description": "剪切板管理器",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784262107137_mn619a5w2_剪切板_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784262107137_mn619a5w2_剪切板_.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:12:02.126Z",
+    "id": "ext_1784262107137_mn619a5w2",
+    "approved_at": "2026-07-17T04:21:54.914Z",
+    "is_cyso": false
   }
 ]
