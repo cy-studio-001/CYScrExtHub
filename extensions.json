@@ -178,5 +178,23 @@
     "id": "ext_1784262466152_caecltx0y",
     "approved_at": "2026-07-17T04:27:50.807Z",
     "is_cyso": false
+  },
+  {
+    "name": "天气",
+    "description": "天气获取器",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784262544144_0v96uv5ce_天气.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784262544144_0v96uv5ce_天气.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:14:16.775Z",
+    "id": "ext_1784262544144_0v96uv5ce",
+    "approved_at": "2026-07-17T04:29:09.164Z",
+    "is_cyso": false
   }
 ]
