@@ -360,5 +360,24 @@
     "is_cyso": true,
     "submit_id": "submit_1784262197534_6yp06zfki",
     "submitted_by": 3
+  },
+  {
+    "name": "电脑应用管理",
+    "description": "电脑应用管理",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784262243977_yxiior4qw_电脑应用管理.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:24:07.722Z",
+    "github_file_path": "review/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
+    "github_cover_path": "review/covers/submit_1784262243977_yxiior4qw_电脑应用管理.png",
+    "is_cyso": true,
+    "submit_id": "submit_1784262247722_cdvfaubik",
+    "submitted_by": 3
   }
 ]
