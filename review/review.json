@@ -1,26 +1,5 @@
 [
   {
-    "name": "着色器+",
-    "description": "自制着色器的快乐谁懂?",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261873596_j7nkfur3u_着色器_.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261873596_j7nkfur3u_着色器_.png",
-    "category": [
-      "实用",
-      "网络",
-      "硬件"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T04:17:57.293Z",
-    "github_file_path": "review/files/submit_1784261873596_j7nkfur3u_着色器_.js",
-    "github_cover_path": "review/covers/submit_1784261873596_j7nkfur3u_着色器_.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784261877293_558rjxsas",
-    "submitted_by": 3
-  },
-  {
     "name": "数字签名",
     "description": "保护你的作品版权",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261903189_i7ttppwmn_数字签名.js",
