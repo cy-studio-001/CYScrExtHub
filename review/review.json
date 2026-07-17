@@ -134,5 +134,28 @@
     "is_cyso": false,
     "submit_id": "submit_1784261552474_9xlm5auss",
     "submitted_by": 3
+  },
+  {
+    "name": "毛玻璃Mac风窗口",
+    "description": "更便捷的制作MacOS",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784261595763_xom4nwzmb_毛玻璃Mac风窗口.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784261595763_xom4nwzmb_毛玻璃Mac风窗口.png",
+    "category": [
+      "实用",
+      "多媒体",
+      "AI",
+      "游戏",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:13:19.667Z",
+    "github_file_path": "review/files/submit_1784261595763_xom4nwzmb_毛玻璃Mac风窗口.js",
+    "github_cover_path": "review/covers/submit_1784261595763_xom4nwzmb_毛玻璃Mac风窗口.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784261599667_qvxdc5a1l",
+    "submitted_by": 3
   }
 ]
