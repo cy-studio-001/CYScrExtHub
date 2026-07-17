@@ -378,5 +378,22 @@
     "id": "ext_1784266195605_1b640w504",
     "approved_at": "2026-07-17T05:30:01.764Z",
     "is_cyso": true
+  },
+  {
+    "name": "电脑文档分析",
+    "description": "电脑文档分析",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784266345114_bv3k32e6m_电脑文档分析.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784266345114_bv3k32e6m_电脑文档分析.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T04:23:17.534Z",
+    "id": "ext_1784266345114_bv3k32e6m",
+    "approved_at": "2026-07-17T05:32:30.398Z",
+    "is_cyso": true
   }
 ]
