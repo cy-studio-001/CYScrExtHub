@@ -1,25 +1,5 @@
 [
   {
-    "name": "本地存储",
-    "description": "用deepseek修改的本地存储扩展，turbowarp原版本地存储不支持同时操作多个命名空间，获取当前命名空间名称，以及判断某一个键是否存在，此修改版本支持跨多个命名空间操作和获取当前命名空间的名称以及判断某一个键是否存在",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784294756921_umkrrqih2_本地存储.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784294756921_umkrrqih2_本地存储.png",
-    "category": [
-      "实用",
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "qazk",
-    "author_id": 7,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T13:26:00.131Z",
-    "github_file_path": "review/files/submit_1784294756921_umkrrqih2_本地存储.js",
-    "github_cover_path": "review/covers/submit_1784294756921_umkrrqih2_本地存储.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784294760131_2rnlbfel1",
-    "submitted_by": 7
-  },
-  {
     "name": "通知",
     "description": "使用deepseek修改的通知，turbowarp原版通知不支持自定义标题，设置是否静音和设置图标和一直显示，修改版支持自定义标题，是否静音，图标以及显示模式",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784295186449_jnaavih68_通知.js",
