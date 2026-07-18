@@ -95,5 +95,24 @@
     "github_cover_path": "disuse/covers/submit_1784262243977_yxiior4qw_电脑应用管理.png",
     "disused_at": "2026-07-17T05:36:29.433Z",
     "reason": "操作体验问题。\n建议添加过滤参数防注入；强制结束前弹窗确认；菜单改为动态生成或提供刷新机制；增加状态返回积木。"
+  },
+  {
+    "name": "01",
+    "description": "01",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1784375521274_rl6j6qr_01.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1784375521274_rl6j6qr_01.jpg",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-07-18T11:49:58.858Z",
+    "submit_id": "rereview_1784375521274_rl6j6qr",
+    "github_file_path": "disuse/files/rereview_1784375521274_rl6j6qr_01.js",
+    "github_cover_path": "disuse/covers/rereview_1784375521274_rl6j6qr_01.jpg",
+    "disused_at": "2026-07-18T11:52:46.754Z",
+    "reason": "测试"
   }
 ]
