@@ -120,5 +120,26 @@
     "is_cyso": false,
     "submit_id": "submit_1784357361037_81pq1gncg",
     "submitted_by": 3
+  },
+  {
+    "name": "TextDB",
+    "description": "更好的文本云存",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784357389901_v6gu0705f_TextDB.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784357389901_v6gu0705f_TextDB.png",
+    "category": [
+      "实用",
+      "网络",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-18T06:49:53.225Z",
+    "github_file_path": "review/files/submit_1784357389901_v6gu0705f_TextDB.js",
+    "github_cover_path": "review/covers/submit_1784357389901_v6gu0705f_TextDB.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784357393225_vexf4zp0g",
+    "submitted_by": 3
   }
 ]
