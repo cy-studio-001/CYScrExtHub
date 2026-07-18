@@ -1,25 +1,5 @@
 [
   {
-    "name": "文本",
-    "description": "使用deepseek修改的文本扩展， turbowarp中原本的文本扩展不支持大小写区分，这个修改版本支持大小写区分， 可以在下拉菜单中手动修改",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784294242886_8gfrw4dtj_文本.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784294242886_8gfrw4dtj_文本.png",
-    "category": [
-      "实用",
-      "运算"
-    ],
-    "version": "1.0.0",
-    "author_name": "qazk",
-    "author_id": 7,
-    "is_repost": false,
-    "submitted_at": "2026-07-17T13:17:26.029Z",
-    "github_file_path": "review/files/submit_1784294242886_8gfrw4dtj_文本.js",
-    "github_cover_path": "review/covers/submit_1784294242886_8gfrw4dtj_文本.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784294246029_iykqwtbq0",
-    "submitted_by": 7
-  },
-  {
     "name": "本地存储",
     "description": "用deepseek修改的本地存储扩展，turbowarp原版本地存储不支持同时操作多个命名空间，获取当前命名空间名称，以及判断某一个键是否存在，此修改版本支持跨多个命名空间操作和获取当前命名空间的名称以及判断某一个键是否存在",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784294756921_umkrrqih2_本地存储.js",
