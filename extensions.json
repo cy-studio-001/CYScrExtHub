@@ -412,5 +412,23 @@
     "id": "ext_1784340508325_yxi9u34zl",
     "approved_at": "2026-07-18T02:08:32.034Z",
     "is_cyso": false
+  },
+  {
+    "name": "本地存储",
+    "description": "用deepseek修改的本地存储扩展，turbowarp原版本地存储不支持同时操作多个命名空间，获取当前命名空间名称，以及判断某一个键是否存在，此修改版本支持跨多个命名空间操作和获取当前命名空间的名称以及判断某一个键是否存在",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784340620628_q7q1xty14_本地存储.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784340620628_q7q1xty14_本地存储.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T13:26:00.131Z",
+    "id": "ext_1784340620628_q7q1xty14",
+    "approved_at": "2026-07-18T02:10:24.424Z",
+    "is_cyso": false
   }
 ]
