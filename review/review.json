@@ -162,24 +162,5 @@
     "is_cyso": false,
     "submit_id": "submit_1784357426905_ohlbcq8p3",
     "submitted_by": 3
-  },
-  {
-    "name": "01",
-    "description": "01",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784375394600_nriju6nao_01.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784375394600_nriju6nao_01.jpg",
-    "category": [
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 1,
-    "is_repost": false,
-    "submitted_at": "2026-07-18T11:49:58.858Z",
-    "github_file_path": "review/files/submit_1784375394600_nriju6nao_01.js",
-    "github_cover_path": "review/covers/submit_1784375394600_nriju6nao_01.jpg",
-    "is_cyso": false,
-    "submit_id": "submit_1784375398858_in4v3witq",
-    "submitted_by": 1
   }
 ]
