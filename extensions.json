@@ -430,5 +430,22 @@
     "id": "ext_1784340620628_q7q1xty14",
     "approved_at": "2026-07-18T02:10:24.424Z",
     "is_cyso": false
+  },
+  {
+    "name": "通知",
+    "description": "使用deepseek修改的通知，turbowarp原版通知不支持自定义标题，设置是否静音和设置图标和一直显示，修改版支持自定义标题，是否静音，图标以及显示模式",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784340884612_kwhh4telz_通知.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784340884612_kwhh4telz_通知.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T13:33:09.420Z",
+    "id": "ext_1784340884612_kwhh4telz",
+    "approved_at": "2026-07-18T02:14:48.301Z",
+    "is_cyso": false
   }
 ]
