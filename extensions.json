@@ -394,5 +394,23 @@
     "id": "ext_1784294115696_7g47mnsr2",
     "approved_at": "2026-07-17T13:15:30.538Z",
     "is_cyso": false
+  },
+  {
+    "name": "文本",
+    "description": "使用deepseek修改的文本扩展， turbowarp中原本的文本扩展不支持大小写区分，这个修改版本支持大小写区分， 可以在下拉菜单中手动修改",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784340508325_yxi9u34zl_文本.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784340508325_yxi9u34zl_文本.png",
+    "category": [
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-07-17T13:17:26.029Z",
+    "id": "ext_1784340508325_yxi9u34zl",
+    "approved_at": "2026-07-18T02:08:32.034Z",
+    "is_cyso": false
   }
 ]
