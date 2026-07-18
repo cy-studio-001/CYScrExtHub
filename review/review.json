@@ -141,5 +141,26 @@
     "is_cyso": false,
     "submit_id": "submit_1784357393225_vexf4zp0g",
     "submitted_by": 3
+  },
+  {
+    "name": "SC",
+    "description": "更好的云变量",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784357423054_p0f3cvgf9_SC.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784357423054_p0f3cvgf9_SC.png",
+    "category": [
+      "实用",
+      "网络",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-18T06:50:26.905Z",
+    "github_file_path": "review/files/submit_1784357423054_p0f3cvgf9_SC.js",
+    "github_cover_path": "review/covers/submit_1784357423054_p0f3cvgf9_SC.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784357426905_ohlbcq8p3",
+    "submitted_by": 3
   }
 ]
