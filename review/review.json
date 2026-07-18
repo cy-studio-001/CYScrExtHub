@@ -162,5 +162,26 @@
     "is_cyso": false,
     "submit_id": "submit_1784357426905_ohlbcq8p3",
     "submitted_by": 3
+  },
+  {
+    "name": "inlineblock",
+    "description": "请把它放进输入数字/文本的里面，提示：把return放进inline块里面，inline里面可以放块，不要把它跟自制积木的return搞混，千万不要只放inline里面不放return，",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784376887615_g1kygd0b0_inlineblock.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784376887615_g1kygd0b0_inlineblock.png",
+    "category": [
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "auu",
+    "author_id": 13,
+    "is_repost": true,
+    "original_author": "https://cst1229.eu.org/extensions/historical",
+    "submitted_at": "2026-07-18T12:14:52.766Z",
+    "github_file_path": "review/files/submit_1784376887615_g1kygd0b0_inlineblock.js",
+    "github_cover_path": "review/covers/submit_1784376887615_g1kygd0b0_inlineblock.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784376892766_6s2gk5fd5",
+    "submitted_by": 13
   }
 ]
