@@ -574,5 +574,22 @@
     "id": "ext_1784444283178_6gsswc62x",
     "approved_at": "2026-07-19T06:58:06.931Z",
     "is_cyso": false
+  },
+  {
+    "name": "天气",
+    "description": "00000",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784444532339_anzytl48r_天气.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784444532339_anzytl48r_天气.jpg",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-07-19T07:01:55.721Z",
+    "id": "ext_1784444532339_anzytl48r",
+    "approved_at": "2026-07-19T07:02:22.811Z",
+    "is_cyso": false
   }
 ]
