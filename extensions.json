@@ -590,6 +590,8 @@
     "submitted_at": "2026-07-19T07:01:55.721Z",
     "id": "ext_1784444532339_anzytl48r",
     "approved_at": "2026-07-19T07:02:22.811Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "hidden": true,
+    "updated_at": "2026-07-19T07:03:06.526Z"
   }
 ]
