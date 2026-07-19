@@ -159,5 +159,25 @@
     "github_cover_path": "disuse/covers/submit_1784357423054_p0f3cvgf9_SC.png",
     "disused_at": "2026-07-19T06:55:24.370Z",
     "reason": "扩展无法使用"
+  },
+  {
+    "name": "Better弹窗",
+    "description": "更好的弹窗",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784436571699_4qax834cs_Better弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784436571699_4qax834cs_Better弹窗.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-19T04:49:41.752Z",
+    "submit_id": "submit_1784436581752_y4kwoqiji",
+    "github_file_path": "disuse/files/submit_1784436571699_4qax834cs_Better弹窗.js",
+    "github_cover_path": "disuse/covers/submit_1784436571699_4qax834cs_Better弹窗.png",
+    "disused_at": "2026-07-19T07:00:26.859Z",
+    "reason": "功能无法使用"
   }
 ]
