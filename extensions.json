@@ -501,5 +501,22 @@
     "id": "ext_1784443176741_qc1xryrgd",
     "approved_at": "2026-07-19T06:39:41.948Z",
     "is_cyso": false
+  },
+  {
+    "name": "无敌弹窗",
+    "description": "无敌弹窗",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784443355249_jgurog4zd_无敌弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784443355249_jgurog4zd_无敌弹窗.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-18T06:47:45.022Z",
+    "id": "ext_1784443355249_jgurog4zd",
+    "approved_at": "2026-07-19T06:42:40.567Z",
+    "is_cyso": false
   }
 ]
