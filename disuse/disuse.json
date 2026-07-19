@@ -1,24 +1,5 @@
 [
   {
-    "name": "01",
-    "description": "01",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1784435022262_kfff18i_01.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1784435022262_kfff18i_01.jpg",
-    "category": [
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 1,
-    "is_repost": false,
-    "submitted_at": "2026-07-19T04:51:28.367Z",
-    "submit_id": "rereview_1784435022262_kfff18i",
-    "github_file_path": "disuse/files/rereview_1784435022262_kfff18i_01.js",
-    "github_cover_path": "disuse/covers/rereview_1784435022262_kfff18i_01.jpg",
-    "disused_at": "2026-07-19T04:52:22.307Z",
-    "reason": "0"
-  },
-  {
     "name": "电脑应用管理",
     "description": "电脑应用管理",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784262243977_yxiior4qw_电脑应用管理.js",
