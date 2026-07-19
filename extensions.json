@@ -576,8 +576,8 @@
     "is_cyso": false
   },
   {
-    "name": "天气11",
-    "description": "00011",
+    "name": "天气1122",
+    "description": "0001100",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784444532339_anzytl48r_天气.js",
     "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1784444731897_52sfji.png",
     "category": [
@@ -592,6 +592,6 @@
     "approved_at": "2026-07-19T07:02:22.811Z",
     "is_cyso": false,
     "hidden": false,
-    "updated_at": "2026-07-19T07:11:19.190Z"
+    "updated_at": "2026-07-19T07:11:28.443Z"
   }
 ]
