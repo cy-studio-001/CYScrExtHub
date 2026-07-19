@@ -1,25 +1,5 @@
 [
   {
-    "name": "浏览器弹窗扩展",
-    "description": "浏览器弹窗扩展",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784357131957_dmgubgq26_浏览器弹窗扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784357131957_dmgubgq26_浏览器弹窗扩展.png",
-    "category": [
-      "网络",
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-18T06:45:39.292Z",
-    "github_file_path": "review/files/submit_1784357131957_dmgubgq26_浏览器弹窗扩展.js",
-    "github_cover_path": "review/covers/submit_1784357131957_dmgubgq26_浏览器弹窗扩展.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784357139292_ke5jyicc3",
-    "submitted_by": 3
-  },
-  {
     "name": "PanelGUI",
     "description": "更好的GUI面板",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784357189244_mheuef19y_PanelGUI.js",
