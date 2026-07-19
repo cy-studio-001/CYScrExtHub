@@ -1,24 +1,5 @@
 [
   {
-    "name": "01",
-    "description": "01",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784447192948_x1w8caqea_01.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784447192948_x1w8caqea_01.jpg",
-    "category": [
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 1,
-    "is_repost": false,
-    "submitted_at": "2026-07-19T07:46:43.121Z",
-    "github_file_path": "review/files/submit_1784447192948_x1w8caqea_01.js",
-    "github_cover_path": "review/covers/submit_1784447192948_x1w8caqea_01.jpg",
-    "is_cyso": false,
-    "submit_id": "submit_1784447203122_nbdnk87rw",
-    "submitted_by": 1
-  },
-  {
     "name": "舞台覆盖层",
     "description": "使用deepseek生成的舞台覆盖层扩展，它能在舞台上添加一个覆盖层，它在任何角色之上而且不会影响到点击，颜色和浓度均可自定义，RGB颜色在0到255之间，浓度在0到100之间",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784447504386_mg2mp1dw8_舞台覆盖层.js",
