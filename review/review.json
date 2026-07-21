@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "name": "GLM AI",
+    "description": "使用deep seek做的通过GLM的免费AI做的",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784639676593_m4nd4tcvz_GLM_AI.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784639676593_m4nd4tcvz_GLM_AI.webp",
+    "category": [
+      "AI",
+      "实用",
+      "网络",
+      "多媒体",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "dhdbvcg",
+    "author_id": 6,
+    "is_repost": false,
+    "submitted_at": "2026-07-21T13:14:44.011Z",
+    "github_file_path": "review/files/submit_1784639676593_m4nd4tcvz_GLM_AI.js",
+    "github_cover_path": "review/covers/submit_1784639676593_m4nd4tcvz_GLM_AI.webp",
+    "is_cyso": false,
+    "submit_id": "submit_1784639684011_ad7aepkn7",
+    "submitted_by": 6
+  }
+]
