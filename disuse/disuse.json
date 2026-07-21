@@ -179,5 +179,25 @@
     "github_cover_path": "disuse/covers/submit_1784436571699_4qax834cs_Better弹窗.png",
     "disused_at": "2026-07-19T07:00:26.859Z",
     "reason": "功能无法使用"
+  },
+  {
+    "name": "天气",
+    "description": "天气",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784633182003_u5f2klu9i_天气.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784633182003_u5f2klu9i_天气.jpg",
+    "category": [
+      "CYSO",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-07-21T11:26:24.561Z",
+    "submit_id": "submit_1784633184561_ho6zo4abj",
+    "github_file_path": "disuse/files/submit_1784633182003_u5f2klu9i_天气.js",
+    "github_cover_path": "disuse/covers/submit_1784633182003_u5f2klu9i_天气.jpg",
+    "disused_at": "2026-07-21T12:19:14.902Z",
+    "reason": "测试"
   }
 ]
