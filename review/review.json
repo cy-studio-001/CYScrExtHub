@@ -21,25 +21,5 @@
     "is_cyso": false,
     "submit_id": "submit_1784639684011_ad7aepkn7",
     "submitted_by": 6
-  },
-  {
-    "name": "WebHook",
-    "description": "✨更好的WebHook",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784640406240_1jcl3dcjg_WebHook.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784640406240_1jcl3dcjg_WebHook.png",
-    "category": [
-      "实用",
-      "网络"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-07-21T13:26:53.760Z",
-    "github_file_path": "review/files/submit_1784640406240_1jcl3dcjg_WebHook.js",
-    "github_cover_path": "review/covers/submit_1784640406240_1jcl3dcjg_WebHook.png",
-    "is_cyso": false,
-    "submit_id": "submit_1784640413760_k6x70oola",
-    "submitted_by": 3
   }
 ]
