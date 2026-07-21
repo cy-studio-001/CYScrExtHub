@@ -591,5 +591,24 @@
     "id": "ext_1784452834796_4a88q81vq",
     "approved_at": "2026-07-19T09:20:42.598Z",
     "is_cyso": false
+  },
+  {
+    "name": "白猫的输入框",
+    "description": "白猫的输入框",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784626706569_it35kx8zl_白猫的输入框.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784626706569_it35kx8zl_白猫的输入框.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "https://www.ccw.site/student/6173f57f48cf8f4796fc860e",
+    "submitted_at": "2026-07-20T13:09:23.461Z",
+    "id": "ext_1784626706569_it35kx8zl",
+    "approved_at": "2026-07-21T09:38:33.212Z",
+    "is_cyso": false
   }
 ]
