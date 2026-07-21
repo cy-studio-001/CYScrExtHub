@@ -610,5 +610,23 @@
     "id": "ext_1784626706569_it35kx8zl",
     "approved_at": "2026-07-21T09:38:33.212Z",
     "is_cyso": false
+  },
+  {
+    "name": "WebHook",
+    "description": "✨更好的WebHook",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784641053968_p9x5ckf4r_WebHook.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784641053968_p9x5ckf4r_WebHook.png",
+    "category": [
+      "实用",
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-21T13:26:53.760Z",
+    "id": "ext_1784641053968_p9x5ckf4r",
+    "approved_at": "2026-07-21T13:37:39.170Z",
+    "is_cyso": false
   }
 ]
