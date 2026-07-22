@@ -199,5 +199,24 @@
     "github_cover_path": "disuse/covers/submit_1784633182003_u5f2klu9i_天气.jpg",
     "disused_at": "2026-07-21T12:19:14.902Z",
     "reason": "测试"
+  },
+  {
+    "name": "WebHook",
+    "description": "✨更好的WebHook",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1784684964726_4i678f26w_WebHook.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1784684964726_4i678f26w_WebHook.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-07-22T01:49:31.823Z",
+    "submit_id": "submit_1784684971823_0o8tuaoql",
+    "github_file_path": "disuse/files/submit_1784684964726_4i678f26w_WebHook.js",
+    "github_cover_path": "disuse/covers/submit_1784684964726_4i678f26w_WebHook.png",
+    "disused_at": "2026-07-22T01:54:31.616Z",
+    "reason": "展示引用"
   }
 ]
