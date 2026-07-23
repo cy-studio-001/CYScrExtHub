@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "数字签名Plus",
+    "description": "保护你的作品版权",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784806937874_0pazp0u0y_数字签名Plus.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784806937874_0pazp0u0y_数字签名Plus.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-23T11:42:27.605Z",
+    "github_file_path": "review/files/submit_1784806937874_0pazp0u0y_数字签名Plus.js",
+    "github_cover_path": "review/covers/submit_1784806937874_0pazp0u0y_数字签名Plus.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784806947605_1jtambpv5",
+    "submitted_by": 3
+  }
+]
