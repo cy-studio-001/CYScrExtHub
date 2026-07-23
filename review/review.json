@@ -17,5 +17,25 @@
     "is_cyso": false,
     "submit_id": "submit_1784808346995_9xr128dk3",
     "submitted_by": 3
+  },
+  {
+    "name": "Easy UI",
+    "description": "Easy UI",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784808370066_rjba9es82_Easy_UI.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784808370066_rjba9es82_Easy_UI.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-23T12:06:14.705Z",
+    "github_file_path": "review/files/submit_1784808370066_rjba9es82_Easy_UI.js",
+    "github_cover_path": "review/covers/submit_1784808370066_rjba9es82_Easy_UI.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784808374705_dskpudfjr",
+    "submitted_by": 3
   }
 ]
