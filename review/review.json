@@ -37,5 +37,25 @@
     "is_cyso": false,
     "submit_id": "submit_1784808374705_dskpudfjr",
     "submitted_by": 3
+  },
+  {
+    "name": "本地文件储存",
+    "description": "本地文件储存",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1784808396171_psckpx51o_本地文件储存.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1784808396171_psckpx51o_本地文件储存.png",
+    "category": [
+      "实用",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-23T12:06:40.055Z",
+    "github_file_path": "review/files/submit_1784808396171_psckpx51o_本地文件储存.js",
+    "github_cover_path": "review/covers/submit_1784808396171_psckpx51o_本地文件储存.png",
+    "is_cyso": false,
+    "submit_id": "submit_1784808400055_icmct6mvy",
+    "submitted_by": 3
   }
 ]
