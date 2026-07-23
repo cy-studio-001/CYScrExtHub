@@ -668,5 +668,22 @@
     "id": "ext_1784806969453_6qaw92plv",
     "approved_at": "2026-07-23T11:42:55.099Z",
     "is_cyso": false
+  },
+  {
+    "name": "本地储存",
+    "description": "本地储存",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784808537295_3crwhkx9u_本地储存.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784808537295_3crwhkx9u_本地储存.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": false,
+    "submitted_at": "2026-07-23T12:05:46.995Z",
+    "id": "ext_1784808537295_3crwhkx9u",
+    "approved_at": "2026-07-23T12:09:03.433Z",
+    "is_cyso": false
   }
 ]
