@@ -721,5 +721,21 @@
     "id": "ext_1784808569283_nparxmgwy",
     "approved_at": "2026-07-23T12:09:35.062Z",
     "is_cyso": false
+  },
+  {
+    "name": "Open UI",
+    "description": "Open UI",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1784808582484_bwjthvoyo_Open_UI.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1784808582484_bwjthvoyo_Open_UI.png",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "DDT",
+    "submitted_at": "2026-07-23T12:07:28.736Z",
+    "id": "ext_1784808582484_bwjthvoyo",
+    "approved_at": "2026-07-23T12:09:48.116Z",
+    "is_cyso": false
   }
 ]
