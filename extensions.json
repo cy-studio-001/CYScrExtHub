@@ -754,5 +754,22 @@
     "id": "ext_1785059421009_b24yy0vbo",
     "approved_at": "2026-07-26T09:50:26.023Z",
     "is_cyso": false
+  },
+  {
+    "name": "tar.xz压缩拓展",
+    "description": "可以将文本按tar.xz格式压缩",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785059526934_wrdaz3d7d_tar_xz压缩拓展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785059526934_wrdaz3d7d_tar_xz压缩拓展.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "sss",
+    "author_id": 26,
+    "is_repost": false,
+    "submitted_at": "2026-07-26T02:20:01.877Z",
+    "id": "ext_1785059526934_wrdaz3d7d",
+    "approved_at": "2026-07-26T09:52:11.930Z",
+    "is_cyso": false
   }
 ]
