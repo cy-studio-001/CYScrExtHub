@@ -58,5 +58,23 @@
     "is_cyso": false,
     "submit_id": "submit_1785058273063_xqht6yh1x",
     "submitted_by": 3
+  },
+  {
+    "name": "HTML实验室",
+    "description": "HTML实验室",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058318568_jf4eqz7mh_HTML实验室.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785058318568_jf4eqz7mh_HTML实验室.png",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:32:16.058Z",
+    "github_file_path": "review/files/submit_1785058318568_jf4eqz7mh_HTML实验室.js",
+    "github_cover_path": "review/covers/submit_1785058318568_jf4eqz7mh_HTML实验室.png",
+    "is_cyso": false,
+    "submit_id": "submit_1785058336058_jp2vlkg66",
+    "submitted_by": 3
   }
 ]
