@@ -139,5 +139,26 @@
     "is_cyso": false,
     "submit_id": "submit_1785058734597_ldlg25yhz",
     "submitted_by": 3
+  },
+  {
+    "name": "移动端",
+    "description": "移动端",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058766707_wuien1zr0_移动端.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785058766707_wuien1zr0_移动端.png",
+    "category": [
+      "实用",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:39:44.145Z",
+    "github_file_path": "review/files/submit_1785058766707_wuien1zr0_移动端.js",
+    "github_cover_path": "review/covers/submit_1785058766707_wuien1zr0_移动端.png",
+    "is_cyso": false,
+    "submit_id": "submit_1785058784145_uuzekxx36",
+    "submitted_by": 3
   }
 ]
