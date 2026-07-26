@@ -771,5 +771,21 @@
     "id": "ext_1785059526934_wrdaz3d7d",
     "approved_at": "2026-07-26T09:52:11.930Z",
     "is_cyso": false
+  },
+  {
+    "name": "HTML实验室",
+    "description": "HTML实验室",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060139192_qa0w0i7kh_HTML实验室.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060139192_qa0w0i7kh_HTML实验室.png",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:32:16.058Z",
+    "id": "ext_1785060139192_qa0w0i7kh",
+    "approved_at": "2026-07-26T10:02:24.805Z",
+    "is_cyso": false
   }
 ]
