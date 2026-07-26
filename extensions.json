@@ -882,5 +882,29 @@
     "id": "ext_1785061522218_gw5hcuc39",
     "approved_at": "2026-07-26T10:25:28.390Z",
     "is_cyso": false
+  },
+  {
+    "name": "YOLO的内嵌框架",
+    "description": "YOLO的内嵌框架",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785061836346_6y7c2985k_YOLO的内嵌框架.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785061836346_6y7c2985k_YOLO的内嵌框架.png",
+    "category": [
+      "实用",
+      "网络",
+      "多媒体",
+      "运算",
+      "游戏",
+      "硬件",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "YL_YOLO",
+    "submitted_at": "2026-07-26T09:48:01.720Z",
+    "id": "ext_1785061836346_6y7c2985k",
+    "approved_at": "2026-07-26T10:30:41.455Z",
+    "is_cyso": false
   }
 ]
