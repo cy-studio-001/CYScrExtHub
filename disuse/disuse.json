@@ -218,5 +218,27 @@
     "github_cover_path": "disuse/covers/submit_1784684964726_4i678f26w_WebHook.png",
     "disused_at": "2026-07-22T01:54:31.616Z",
     "reason": "展示引用"
+  },
+  {
+    "name": "哔哩哔哩API",
+    "description": "哔哩哔哩API",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1785058255481_mq1610mcz_哔哩哔哩API.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1785058255481_mq1610mcz_哔哩哔哩API.png",
+    "category": [
+      "实用",
+      "网络",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:31:13.063Z",
+    "submit_id": "submit_1785058273063_xqht6yh1x",
+    "github_file_path": "disuse/files/submit_1785058255481_mq1610mcz_哔哩哔哩API.js",
+    "github_cover_path": "disuse/covers/submit_1785058255481_mq1610mcz_哔哩哔哩API.png",
+    "disused_at": "2026-07-26T09:53:30.909Z",
+    "reason": "算了算了什么垃圾"
   }
 ]
