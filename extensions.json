@@ -844,5 +844,24 @@
     "id": "ext_1785060436120_yegn099at",
     "approved_at": "2026-07-26T10:07:21.225Z",
     "is_cyso": false
+  },
+  {
+    "name": "移动端",
+    "description": "移动端",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060511824_gq6d9sw9s_移动端.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060511824_gq6d9sw9s_移动端.png",
+    "category": [
+      "实用",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:39:44.145Z",
+    "id": "ext_1785060511824_gq6d9sw9s",
+    "approved_at": "2026-07-26T10:08:36.989Z",
+    "is_cyso": false
   }
 ]
