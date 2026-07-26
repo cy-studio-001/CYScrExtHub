@@ -1,26 +1,5 @@
 [
   {
-    "name": "临时云变量",
-    "description": "临时云变量",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058669616_qm6ow8a90_临时云变量.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785058669616_qm6ow8a90_临时云变量.png",
-    "category": [
-      "实用",
-      "网络"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": true,
-    "original_author": "10000Why",
-    "submitted_at": "2026-07-26T09:38:07.287Z",
-    "github_file_path": "review/files/submit_1785058669616_qm6ow8a90_临时云变量.js",
-    "github_cover_path": "review/covers/submit_1785058669616_qm6ow8a90_临时云变量.png",
-    "is_cyso": false,
-    "submit_id": "submit_1785058687287_vfbo080i7",
-    "submitted_by": 3
-  },
-  {
     "name": "遥感扩展",
     "description": "遥感扩展",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058717118_y18t4ukyw_遥感扩展.js",
