@@ -66,5 +66,26 @@
     "is_cyso": false,
     "submit_id": "submit_1785059281720_n5wc6hupo",
     "submitted_by": 3
+  },
+  {
+    "name": "网络请求",
+    "description": "可以使用get post PUT Patch delete head options这几种请求方法来请求某个网站并且可以自定义返回格式可以是UTF-8文本,base64或者data:URL",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785061351182_0te3g5clo_网络请求.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785061351182_0te3g5clo_网络请求.png",
+    "category": [
+      "实用",
+      "网络",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-07-26T10:22:48.773Z",
+    "github_file_path": "review/files/submit_1785061351182_0te3g5clo_网络请求.js",
+    "github_cover_path": "review/covers/submit_1785061351182_0te3g5clo_网络请求.png",
+    "is_cyso": false,
+    "submit_id": "submit_1785061368773_jc2976iot",
+    "submitted_by": 7
   }
 ]
