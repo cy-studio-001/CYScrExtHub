@@ -1,31 +1,5 @@
 [
   {
-    "name": "YOLO的内嵌框架",
-    "description": "YOLO的内嵌框架",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785059263858_vmu2zx59s_YOLO的内嵌框架.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785059263858_vmu2zx59s_YOLO的内嵌框架.png",
-    "category": [
-      "实用",
-      "网络",
-      "多媒体",
-      "运算",
-      "游戏",
-      "硬件",
-      "AI"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": true,
-    "original_author": "YL_YOLO",
-    "submitted_at": "2026-07-26T09:48:01.720Z",
-    "github_file_path": "review/files/submit_1785059263858_vmu2zx59s_YOLO的内嵌框架.js",
-    "github_cover_path": "review/covers/submit_1785059263858_vmu2zx59s_YOLO的内嵌框架.png",
-    "is_cyso": false,
-    "submit_id": "submit_1785059281720_n5wc6hupo",
-    "submitted_by": 3
-  },
-  {
     "name": "网络请求",
     "description": "可以使用get post PUT Patch delete head options这几种请求方法来请求某个网站并且可以自定义返回格式可以是UTF-8文本,base64或者data:URL",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785061351182_0te3g5clo_网络请求.js",
