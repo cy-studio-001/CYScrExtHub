@@ -737,5 +737,22 @@
     "id": "ext_1784808582484_bwjthvoyo",
     "approved_at": "2026-07-23T12:09:48.116Z",
     "is_cyso": false
+  },
+  {
+    "name": "7z压缩拓展",
+    "description": "可以将文本按照7z格式进行压缩",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785059421009_b24yy0vbo_7z压缩拓展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785059421009_b24yy0vbo_7z压缩拓展.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "sss",
+    "author_id": 26,
+    "is_repost": false,
+    "submitted_at": "2026-07-26T02:15:48.790Z",
+    "id": "ext_1785059421009_b24yy0vbo",
+    "approved_at": "2026-07-26T09:50:26.023Z",
+    "is_cyso": false
   }
 ]
