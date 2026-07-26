@@ -1,27 +1,5 @@
 [
   {
-    "name": "哔哩哔哩API",
-    "description": "哔哩哔哩API",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058255481_mq1610mcz_哔哩哔哩API.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785058255481_mq1610mcz_哔哩哔哩API.png",
-    "category": [
-      "实用",
-      "网络",
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": true,
-    "original_author": "10000Why",
-    "submitted_at": "2026-07-26T09:31:13.063Z",
-    "github_file_path": "review/files/submit_1785058255481_mq1610mcz_哔哩哔哩API.js",
-    "github_cover_path": "review/covers/submit_1785058255481_mq1610mcz_哔哩哔哩API.png",
-    "is_cyso": false,
-    "submit_id": "submit_1785058273063_xqht6yh1x",
-    "submitted_by": 3
-  },
-  {
     "name": "HTML实验室",
     "description": "HTML实验室",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058318568_jf4eqz7mh_HTML实验室.js",
