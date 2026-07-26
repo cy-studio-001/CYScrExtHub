@@ -787,5 +787,23 @@
     "id": "ext_1785060139192_qa0w0i7kh",
     "approved_at": "2026-07-26T10:02:24.805Z",
     "is_cyso": false
+  },
+  {
+    "name": "框选扩展",
+    "description": "框选扩展",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060263535_tt4x3u4vx_框选扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060263535_tt4x3u4vx_框选扩展.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:35:52.156Z",
+    "id": "ext_1785060263535_tt4x3u4vx",
+    "approved_at": "2026-07-26T10:04:29.254Z",
+    "is_cyso": false
   }
 ]
