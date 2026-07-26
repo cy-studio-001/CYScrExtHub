@@ -76,5 +76,25 @@
     "is_cyso": false,
     "submit_id": "submit_1785058336058_jp2vlkg66",
     "submitted_by": 3
+  },
+  {
+    "name": "框选扩展",
+    "description": "框选扩展",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785058534330_qw0z4ykny_框选扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785058534330_qw0z4ykny_框选扩展.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "10000Why",
+    "submitted_at": "2026-07-26T09:35:52.156Z",
+    "github_file_path": "review/files/submit_1785058534330_qw0z4ykny_框选扩展.js",
+    "github_cover_path": "review/covers/submit_1785058534330_qw0z4ykny_框选扩展.png",
+    "is_cyso": false,
+    "submit_id": "submit_1785058552156_gzgba2c1l",
+    "submitted_by": 3
   }
 ]
