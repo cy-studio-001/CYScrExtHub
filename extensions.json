@@ -926,5 +926,25 @@
     "id": "ext_1785061883307_2ln45xgk6",
     "approved_at": "2026-07-26T10:31:28.637Z",
     "is_cyso": false
+  },
+  {
+    "name": "公历农历·节日·计时",
+    "description": "作者：dhdbvcg",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785246517825_wsdgsczt7_公历农历_节日_计时.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785246517825_wsdgsczt7_公历农历_节日_计时.png",
+    "category": [
+      "实用",
+      "运算",
+      "CYSO",
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "dhdbvcg",
+    "author_id": 6,
+    "is_repost": false,
+    "submitted_at": "2026-07-28T11:10:01.466Z",
+    "id": "ext_1785246517825_wsdgsczt7",
+    "approved_at": "2026-07-28T13:48:42.276Z",
+    "is_cyso": true
   }
 ]
