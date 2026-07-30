@@ -41,5 +41,24 @@
     "is_cyso": false,
     "submit_id": "submit_1785126915212_g4iferz4m",
     "submitted_by": 3
+  },
+  {
+    "name": "灵动弹窗",
+    "description": "使用方法：在 TurboWarp（或其他二改编辑器，兼容Gandi） 中选择「自定义扩展」，加载本文件，并勾选「不使用沙盒运行扩展 (Run without sandbox)」。",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785377557397_1es37tq6g_灵动弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785377557397_1es37tq6g_灵动弹窗.jpeg",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "勇敢的菠萝吖",
+    "author_id": 27,
+    "is_repost": false,
+    "submitted_at": "2026-07-30T02:12:54.960Z",
+    "github_file_path": "review/files/submit_1785377557397_1es37tq6g_灵动弹窗.js",
+    "github_cover_path": "review/covers/submit_1785377557397_1es37tq6g_灵动弹窗.jpeg",
+    "is_cyso": false,
+    "submit_id": "submit_1785377574960_b3j81lmne",
+    "submitted_by": 27
   }
 ]
