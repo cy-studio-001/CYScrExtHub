@@ -946,5 +946,24 @@
     "id": "ext_1785246517825_wsdgsczt7",
     "approved_at": "2026-07-28T13:48:42.276Z",
     "is_cyso": true
+  },
+  {
+    "name": "Three3D.js",
+    "description": "Three3D.js",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785571343237_clp1cav5h_Three3D_js.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785571343237_clp1cav5h_Three3D_js.png",
+    "category": [
+      "实用",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "YL_YOLO",
+    "submitted_at": "2026-07-27T03:53:10.079Z",
+    "id": "ext_1785571343237_clp1cav5h",
+    "approved_at": "2026-08-01T08:02:29.176Z",
+    "is_cyso": false
   }
 ]
