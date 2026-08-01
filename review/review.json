@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "文件++",
+    "description": "本扩展专为 CysoEditor 桌面端打造，提供轻量高效的文件下载能力。包含“下载文本为文件”与“下载 URL 保存为文件”两个核心积木：前者可将任意文本内容快速导出为本地文件；后者支持通过网址直接获取 exe、zip、图片等各类资源并触发浏览器保存对话框。无需复杂配置，拖拽即用，助你轻松实现素材抓取与数据落地。\r\n\r\n注意：本扩展仅兼容 CysoEditor 桌面端环境，浏览器在线版无法使用；使用前请确保软件已开启允许扩展访问任何网站及cyso core，以免下载被拦截。部分网络资源可能受跨域策略影响，请以实际环境为准。",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1785591968567_ihe0xwp56_文件__.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1785591968567_ihe0xwp56_文件__.png",
+    "category": [
+      "实用",
+      "网络",
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "sss",
+    "author_id": 26,
+    "is_repost": false,
+    "submitted_at": "2026-08-01T13:46:13.875Z",
+    "github_file_path": "review/files/submit_1785591968567_ihe0xwp56_文件__.js",
+    "github_cover_path": "review/covers/submit_1785591968567_ihe0xwp56_文件__.png",
+    "is_cyso": true,
+    "submit_id": "submit_1785591973875_ohb32o7qy",
+    "submitted_by": 26
+  }
+]
