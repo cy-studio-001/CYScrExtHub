@@ -1021,5 +1021,24 @@
     "id": "ext_1785846220884_qj4ufi06f",
     "approved_at": "2026-08-04T12:23:45.082Z",
     "is_cyso": true
+  },
+  {
+    "name": "Simple3D汉化版",
+    "description": "turbowarp的simple3d扩展的汉化版本",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785846312325_wr5xz1u1a_Simple3D汉化版.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785846312325_wr5xz1u1a_Simple3D汉化版.jpg",
+    "category": [
+      "运算",
+      "实用",
+      "游戏"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-08-03T14:11:27.003Z",
+    "id": "ext_1785846312325_wr5xz1u1a",
+    "approved_at": "2026-08-04T12:25:18.416Z",
+    "is_cyso": false
   }
 ]
