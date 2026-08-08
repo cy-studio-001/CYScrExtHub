@@ -1,24 +1,5 @@
 [
   {
-    "name": "简单计算",
-    "description": "支持计算一个表达式或者化简某个代数式",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786003486886_83bliqe10_简单计算.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786003486886_83bliqe10_简单计算.png",
-    "category": [
-      "运算"
-    ],
-    "version": "1.0.0",
-    "author_name": "qazk",
-    "author_id": 7,
-    "is_repost": false,
-    "submitted_at": "2026-08-06T08:04:58.626Z",
-    "github_file_path": "review/files/submit_1786003486886_83bliqe10_简单计算.js",
-    "github_cover_path": "review/covers/submit_1786003486886_83bliqe10_简单计算.png",
-    "is_cyso": false,
-    "submit_id": "submit_1786003498626_9pjl3ow52",
-    "submitted_by": 7
-  },
-  {
     "name": "Morgan的工具箱",
     "description": "扩展是象棋脑工作室制作",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786025855259_0rwhjjkdt_Morgan的工具箱.js",
