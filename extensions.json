@@ -1040,5 +1040,22 @@
     "id": "ext_1785846312325_wr5xz1u1a",
     "approved_at": "2026-08-04T12:25:18.416Z",
     "is_cyso": false
+  },
+  {
+    "name": "简单计算",
+    "description": "支持计算一个表达式或者化简某个代数式",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786174081138_ekv0ojk3g_简单计算.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786174081138_ekv0ojk3g_简单计算.png",
+    "category": [
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-08-06T08:04:58.626Z",
+    "id": "ext_1786174081138_ekv0ojk3g",
+    "approved_at": "2026-08-08T07:28:05.356Z",
+    "is_cyso": false
   }
 ]
