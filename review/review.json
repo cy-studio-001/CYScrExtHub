@@ -23,24 +23,5 @@
     "is_cyso": false,
     "submit_id": "submit_1786025859723_k7zcjeiz6",
     "submitted_by": 6
-  },
-  {
-    "name": "类WinUI3弹窗",
-    "description": "这是一个名为 WinUI 3弹窗 的社区扩展，该扩展的主要功能是为Scratch编程环境增添多种类型的弹窗交互功能，使用户可以在Scratch项目里方便地创建和使用不同样式与用途的弹窗，例如提示弹窗、确认弹窗、输入弹窗等，并且能够获取这些弹窗的返回值，增强项目的交互性和用户体验。\r\n注：其中一部分代码使用了豆包AI\r\n总的来说非常牛X！\r\n感谢支持！\r\n这是我迄今为止做过的最大的工程，总共1000多条代码",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786172244634_6rhgo5oib_类WinUI3弹窗.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786172244634_6rhgo5oib_类WinUI3弹窗.PNG",
-    "category": [
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "E.R.T.J",
-    "author_id": 28,
-    "is_repost": false,
-    "submitted_at": "2026-08-08T06:57:41.625Z",
-    "github_file_path": "review/files/submit_1786172244634_6rhgo5oib_类WinUI3弹窗.js",
-    "github_cover_path": "review/covers/submit_1786172244634_6rhgo5oib_类WinUI3弹窗.PNG",
-    "is_cyso": false,
-    "submit_id": "submit_1786172261625_a864rz9zk",
-    "submitted_by": 28
   }
 ]
