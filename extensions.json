@@ -1074,28 +1074,5 @@
     "id": "ext_1786174124890_nazsihhde",
     "approved_at": "2026-08-08T07:28:48.598Z",
     "is_cyso": false
-  },
-  {
-    "name": "Morgan的工具箱",
-    "description": "扩展是象棋脑工作室制作",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786174252985_k8ouhn025_Morgan的工具箱.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786174252985_k8ouhn025_Morgan的工具箱.png",
-    "category": [
-      "实用",
-      "网络",
-      "硬件",
-      "游戏",
-      "多媒体",
-      "运算"
-    ],
-    "version": "1.0.0",
-    "author_name": "dhdbvcg",
-    "author_id": 6,
-    "is_repost": true,
-    "original_author": "https://github.com/chess-brain/code/issues/3",
-    "submitted_at": "2026-08-06T14:17:39.723Z",
-    "id": "ext_1786174252985_k8ouhn025",
-    "approved_at": "2026-08-08T07:30:56.648Z",
-    "is_cyso": false
   }
 ]
