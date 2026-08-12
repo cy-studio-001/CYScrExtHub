@@ -27,26 +27,5 @@
     "submitted_by": 6,
     "is_rereview": true,
     "rereview_note": "控制无法正常使用，错误较多"
-  },
-  {
-    "name": "飞书",
-    "description": "飞书-✨更好的WebHook",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786501764098_su9o83j07_飞书.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786501764098_su9o83j07_飞书.png",
-    "category": [
-      "多媒体",
-      "网络",
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "Maxkore",
-    "author_id": 3,
-    "is_repost": false,
-    "submitted_at": "2026-08-12T02:29:27.080Z",
-    "github_file_path": "review/files/submit_1786501764098_su9o83j07_飞书.js",
-    "github_cover_path": "review/covers/submit_1786501764098_su9o83j07_飞书.png",
-    "is_cyso": false,
-    "submit_id": "submit_1786501767080_3xgbhm88r",
-    "submitted_by": 3
   }
 ]
