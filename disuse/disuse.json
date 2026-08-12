@@ -261,5 +261,22 @@
     "github_cover_path": "disuse/covers/submit_1785058871039_r8vuin43f_语音转代码.png",
     "disused_at": "2026-07-26T10:24:35.108Z",
     "reason": "不行"
+  },
+  {
+    "name": "方向运动",
+    "description": "一个可以替代x，y坐标的扩展",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1786510280492_fi9fg4fo7_方向运动.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1786510280492_fi9fg4fo7_方向运动.png",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-08-12T04:51:22.868Z",
+    "submit_id": "submit_1786510282868_hs5zs8y8m",
+    "github_file_path": "disuse/files/submit_1786510280492_fi9fg4fo7_方向运动.js",
+    "github_cover_path": "disuse/covers/submit_1786510280492_fi9fg4fo7_方向运动.png",
+    "disused_at": "2026-08-12T07:08:04.114Z",
+    "reason": "你投稿了两个"
   }
 ]
