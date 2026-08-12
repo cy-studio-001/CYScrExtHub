@@ -1116,5 +1116,24 @@
     "id": "ext_1786502003290_e9p0qtvkb",
     "approved_at": "2026-08-12T02:33:27.213Z",
     "is_cyso": false
+  },
+  {
+    "name": "自定义积木+",
+    "description": "自定义积木+",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786519093931_i9azxhn4x_自定义积木_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786519093931_i9azxhn4x_自定义积木_.png",
+    "category": [
+      "实用",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "Maxkore",
+    "author_id": 3,
+    "is_repost": true,
+    "original_author": "YL_YOLO",
+    "submitted_at": "2026-08-12T07:17:32.578Z",
+    "id": "ext_1786519093931_i9azxhn4x",
+    "approved_at": "2026-08-12T07:18:19.439Z",
+    "is_cyso": false
   }
 ]
