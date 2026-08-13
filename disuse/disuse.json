@@ -298,25 +298,5 @@
     "github_cover_path": "disuse/covers/submit_1786506938058_3k8menvtq_方向运动.png",
     "disused_at": "2026-08-12T07:09:58.849Z",
     "reason": "无用切勿意义(通过控制x,y坐标即可移动)看得出来你的扩展是自己写的 加油哦！"
-  },
-  {
-    "name": "CYSO CORE官方扩展",
-    "description": "CYSO Editor官方扩展，用于快捷使用CYSO CORE的全新功能",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1786610251462_kfnlb5a4w_CYSO_CORE官方扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1786610251462_kfnlb5a4w_CYSO_CORE官方扩展.png",
-    "category": [
-      "CYSO",
-      "实用"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 1,
-    "is_repost": false,
-    "submitted_at": "2026-08-13T08:37:40.047Z",
-    "submit_id": "submit_1786610260047_ewtzhkcp1",
-    "github_file_path": "disuse/files/submit_1786610251462_kfnlb5a4w_CYSO_CORE官方扩展.js",
-    "github_cover_path": "disuse/covers/submit_1786610251462_kfnlb5a4w_CYSO_CORE官方扩展.png",
-    "disused_at": "2026-08-13T08:38:22.781Z",
-    "reason": "测试"
   }
 ]
