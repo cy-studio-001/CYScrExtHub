@@ -1135,5 +1135,23 @@
     "id": "ext_1786519093931_i9azxhn4x",
     "approved_at": "2026-08-12T07:18:19.439Z",
     "is_cyso": false
+  },
+  {
+    "name": "可回收音频",
+    "description": "缓存、复用项目中与外部的音频",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786591471577_vmaoumcs2_可回收音频.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786591471577_vmaoumcs2_可回收音频.png",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "大尾巴奇",
+    "author_id": 31,
+    "is_repost": false,
+    "submitted_at": "2026-08-12T10:06:56.980Z",
+    "id": "ext_1786591471577_vmaoumcs2",
+    "approved_at": "2026-08-13T03:24:35.223Z",
+    "is_cyso": false
   }
 ]
