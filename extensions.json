@@ -1153,5 +1153,23 @@
     "id": "ext_1786591471577_vmaoumcs2",
     "approved_at": "2026-08-13T03:24:35.223Z",
     "is_cyso": false
+  },
+  {
+    "name": "并行音频Plus",
+    "description": "允许你高效地播放同一个音频多次",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786591495550_92dmjg4gt_并行音频Plus.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786591495550_92dmjg4gt_并行音频Plus.png",
+    "category": [
+      "多媒体",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "大尾巴奇",
+    "author_id": 31,
+    "is_repost": false,
+    "submitted_at": "2026-08-12T10:11:44.228Z",
+    "id": "ext_1786591495550_92dmjg4gt",
+    "approved_at": "2026-08-13T03:24:59.686Z",
+    "is_cyso": false
   }
 ]
