@@ -19,5 +19,24 @@
     "is_cyso": false,
     "submit_id": "submit_1786682701912_wxgg5815r",
     "submitted_by": 37
+  },
+  {
+    "name": "CYSO CORE官方扩展",
+    "description": "CYSO CORE",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786692002739_rsm5d64ut_CYSO_CORE官方扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786692002739_rsm5d64ut_CYSO_CORE官方扩展.png",
+    "category": [
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-08-14T07:20:08.265Z",
+    "github_file_path": "review/files/submit_1786692002739_rsm5d64ut_CYSO_CORE官方扩展.js",
+    "github_cover_path": "review/covers/submit_1786692002739_rsm5d64ut_CYSO_CORE官方扩展.png",
+    "is_cyso": true,
+    "submit_id": "submit_1786692008266_7jp04j29m",
+    "submitted_by": 1
   }
 ]
