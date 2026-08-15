@@ -319,5 +319,27 @@
     "github_cover_path": "disuse/covers/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.png",
     "disused_at": "2026-08-15T05:03:03.368Z",
     "reason": "不错 可惜连系统自带列表的在某一项前插入功能都没有可以升级一下哈~"
+  },
+  {
+    "name": "CYSO CORE官方扩展",
+    "description": "CYSO",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1786775361339_oo62lpq_CYSO_CORE官方扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1786775361339_oo62lpq_CYSO_CORE官方扩展.png",
+    "category": [
+      "实用",
+      "多媒体",
+      "网络",
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-08-15T06:25:50.189Z",
+    "submit_id": "rereview_1786775361339_oo62lpq",
+    "github_file_path": "disuse/files/rereview_1786775361339_oo62lpq_CYSO_CORE官方扩展.js",
+    "github_cover_path": "disuse/covers/rereview_1786775361339_oo62lpq_CYSO_CORE官方扩展.png",
+    "disused_at": "2026-08-15T06:30:11.478Z",
+    "reason": "测试"
   }
 ]
