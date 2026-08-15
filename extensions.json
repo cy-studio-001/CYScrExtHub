@@ -1190,5 +1190,23 @@
     "approved_at": "2026-08-13T05:02:16.657Z",
     "is_cyso": false,
     "updated_at": "2026-08-13T05:47:34.460Z"
+  },
+  {
+    "name": "CYSO CORE官方扩展",
+    "description": "CYSO",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786784938630_uv04cdgpl_CYSO_CORE官方扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786784938630_uv04cdgpl_CYSO_CORE官方扩展.png",
+    "category": [
+      "CYSO",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "submitted_at": "2026-08-15T09:04:31.815Z",
+    "id": "ext_1786784938630_uv04cdgpl",
+    "approved_at": "2026-08-15T09:09:11.132Z",
+    "is_cyso": true
   }
 ]
