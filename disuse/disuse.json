@@ -298,5 +298,26 @@
     "github_cover_path": "disuse/covers/submit_1784262004034_sdq9tawy9_CYSO官方API.png",
     "disused_at": "2026-07-17T04:55:43.280Z",
     "reason": "扩展存在使用体验问题。后期会更新编辑器官方整合扩展。谢谢"
+  },
+  {
+    "name": "临时列表 Alpha 1.0 - AI辅助生成",
+    "description": "创建临时列表[NAME]\r\n增加[ITEM]到临时列表[NAME]\r\n从临时列表[NAME]删除第[INDEX]项\r\n删除临时列表[NAME]\r\n清空临时列表[NAME]\r\n(临时列表[NAME]的项目数)\r\n(临时列表[NAME]的第[INDEX]项)\r\n(所有临时列表名称)",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.png",
+    "category": [
+      "AI",
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "huangziang222",
+    "author_id": 37,
+    "is_repost": false,
+    "submitted_at": "2026-08-14T04:45:01.912Z",
+    "submit_id": "submit_1786682701912_wxgg5815r",
+    "github_file_path": "disuse/files/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.js",
+    "github_cover_path": "disuse/covers/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.png",
+    "disused_at": "2026-08-15T05:03:03.368Z",
+    "reason": "不错 可惜连系统自带列表的在某一项前插入功能都没有可以升级一下哈~"
   }
 ]
