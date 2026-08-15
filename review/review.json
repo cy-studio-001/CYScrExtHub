@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "CYSO CORE官方扩展",
+    "description": "00",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786797578248_bu7h9cfr3_CYSO_CORE官方扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786797578248_bu7h9cfr3_CYSO_CORE官方扩展.png",
+    "category": [
+      "CYSO",
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "doc_url": "https://raw.githubusercontent.com/markedjs/marked/master/README.md",
+    "submitted_at": "2026-08-15T12:39:50.540Z",
+    "github_file_path": "review/files/submit_1786797578248_bu7h9cfr3_CYSO_CORE官方扩展.js",
+    "github_cover_path": "review/covers/submit_1786797578248_bu7h9cfr3_CYSO_CORE官方扩展.png",
+    "is_cyso": true,
+    "submit_id": "submit_1786797590540_54zxk4shm",
+    "submitted_by": 1
+  }
+]
