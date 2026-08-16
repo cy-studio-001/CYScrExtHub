@@ -1228,5 +1228,22 @@
     "id": "ext_1786845979624_asmmoz1pl",
     "approved_at": "2026-08-16T02:06:27.648Z",
     "is_cyso": false
+  },
+  {
+    "name": "我的积木＋",
+    "description": "来自鲨鱼池扩展库my block+的汉化版",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786846126724_vvspuus2t_我的积木_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786846126724_vvspuus2t_我的积木_.jpeg",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-08-15T13:55:18.502Z",
+    "id": "ext_1786846126724_vvspuus2t",
+    "approved_at": "2026-08-16T02:08:58.038Z",
+    "is_cyso": false
   }
 ]
