@@ -1,5 +1,27 @@
 [
   {
+    "name": "CYSO CORE官方扩展",
+    "description": "00",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.png",
+    "category": [
+      "实用",
+      "CYSO"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": false,
+    "doc_url": "https://www.lequxiang.com.cn/down.php/2460282f89618f47a7075d159f695473.md",
+    "submitted_at": "2026-08-15T12:39:50.540Z",
+    "is_cyso": true,
+    "submit_id": "rereview_1786861198034_dhp71k3",
+    "github_file_path": "disuse/files/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.js",
+    "github_cover_path": "disuse/covers/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.png",
+    "disused_at": "2026-08-16T06:21:36.097Z",
+    "reason": "测试"
+  },
+  {
     "name": "临时列表 Alpha 1.0 - AI辅助生成",
     "description": "创建临时列表[NAME]\r\n增加[ITEM]到临时列表[NAME]\r\n从临时列表[NAME]删除第[INDEX]项\r\n删除临时列表[NAME]\r\n清空临时列表[NAME]\r\n(临时列表[NAME]的项目数)\r\n(临时列表[NAME]的第[INDEX]项)\r\n(所有临时列表名称)",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1786682693965_37wh8ttgi_临时列表_Alpha_1_0___AI辅助生成.js",
@@ -319,49 +341,5 @@
     "github_cover_path": "disuse/covers/submit_1784262004034_sdq9tawy9_CYSO官方API.png",
     "disused_at": "2026-07-17T04:55:43.280Z",
     "reason": "扩展存在使用体验问题。后期会更新编辑器官方整合扩展。谢谢"
-  },
-  {
-    "name": "CYSO CORE官方扩展",
-    "description": "00",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.png",
-    "category": [
-      "实用",
-      "CYSO"
-    ],
-    "version": "1.0.0",
-    "author_name": "cy_studio",
-    "author_id": 1,
-    "is_repost": false,
-    "doc_url": "https://www.lequxiang.com.cn/down.php/2460282f89618f47a7075d159f695473.md",
-    "submitted_at": "2026-08-15T12:39:50.540Z",
-    "is_cyso": true,
-    "submit_id": "rereview_1786861198034_dhp71k3",
-    "github_file_path": "disuse/files/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.js",
-    "github_cover_path": "disuse/covers/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.png",
-    "disused_at": "2026-08-16T06:21:36.097Z",
-    "reason": "测试"
-  },
-  {
-    "name": "CYSO CORE官方扩展！！",
-    "description": "CYSO00",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.jpg",
-    "category": [
-      "实用",
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "002",
-    "author_id": 4,
-    "is_repost": false,
-    "doc_url": "https://www.lequxiang.com.cn/down.php/2460282f89618f47a7075d159f695473.md",
-    "submitted_at": "2026-08-16T07:44:45.360Z",
-    "is_cyso": true,
-    "submit_id": "rereview_1786867283013_08ysxml",
-    "github_file_path": "disuse/files/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.js",
-    "github_cover_path": "disuse/covers/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.jpg",
-    "disused_at": "2026-08-16T08:02:37.487Z",
-    "reason": "测试"
   }
 ]
