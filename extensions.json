@@ -1224,25 +1224,5 @@
     "id": "ext_1786846126724_vvspuus2t",
     "approved_at": "2026-08-16T02:08:58.038Z",
     "is_cyso": false
-  },
-  {
-    "name": "CYSO CORE官方扩展！！",
-    "description": "CYSO00",
-    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786866302753_l79eshqm7_CYSO_CORE官方扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1786866763116_v3hx0r.jpg",
-    "category": [
-      "实用",
-      "多媒体"
-    ],
-    "version": "1.0.0",
-    "author_name": "002",
-    "author_id": 4,
-    "is_repost": false,
-    "doc_url": "https://www.lequxiang.com.cn/down.php/2460282f89618f47a7075d159f695473.md",
-    "submitted_at": "2026-08-16T07:44:45.360Z",
-    "is_cyso": true,
-    "id": "ext_1786866302753_l79eshqm7",
-    "approved_at": "2026-08-16T07:45:13.491Z",
-    "updated_at": "2026-08-16T07:52:55.473Z"
   }
 ]
