@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "name": "对话气泡",
+    "description": "来自鲨鱼池（SharkPool）Speech-Bubbles扩展的汉化版，你可以从02Engine（编辑器网址 https://editor.02engine.org/index.html，官网https://02engine.02studio.xyz/）的扩展库里找到。",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1786873127146_5fn9dkgm1_对话气泡.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1786873127146_5fn9dkgm1_对话气泡.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-08-16T09:38:51.543Z",
+    "github_file_path": "review/files/submit_1786873127146_5fn9dkgm1_对话气泡.js",
+    "github_cover_path": "review/covers/submit_1786873127146_5fn9dkgm1_对话气泡.png",
+    "is_cyso": false,
+    "submit_id": "submit_1786873131543_4ziqpqb8t",
+    "submitted_by": 30
+  }
+]
