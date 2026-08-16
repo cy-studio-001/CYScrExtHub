@@ -341,5 +341,27 @@
     "github_cover_path": "disuse/covers/rereview_1786861198034_dhp71k3_CYSO_CORE官方扩展.png",
     "disused_at": "2026-08-16T06:21:36.097Z",
     "reason": "测试"
+  },
+  {
+    "name": "CYSO CORE官方扩展！！",
+    "description": "CYSO00",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.jpg",
+    "category": [
+      "实用",
+      "多媒体"
+    ],
+    "version": "1.0.0",
+    "author_name": "002",
+    "author_id": 4,
+    "is_repost": false,
+    "doc_url": "https://www.lequxiang.com.cn/down.php/2460282f89618f47a7075d159f695473.md",
+    "submitted_at": "2026-08-16T07:44:45.360Z",
+    "is_cyso": true,
+    "submit_id": "rereview_1786867283013_08ysxml",
+    "github_file_path": "disuse/files/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.js",
+    "github_cover_path": "disuse/covers/rereview_1786867283013_08ysxml_CYSO_CORE官方扩展__.jpg",
+    "disused_at": "2026-08-16T08:02:37.487Z",
+    "reason": "测试"
   }
 ]
