@@ -1226,14 +1226,12 @@
     "is_cyso": false
   },
   {
-    "name": "CYSO CORE官方扩展0",
-    "description": "00",
+    "name": "CYSO CORE官方扩展",
+    "description": "1",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786869126268_kijm2m46a_CYSO_CORE官方扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786869126268_kijm2m46a_CYSO_CORE官方扩展.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1786869202022_sr9jti.jpg",
     "category": [
-      "实用",
-      "多媒体",
-      "CYSO"
+      "实用"
     ],
     "version": "1.0.0",
     "author_name": "001",
@@ -1244,6 +1242,6 @@
     "is_cyso": true,
     "id": "ext_1786869126268_kijm2m46a",
     "approved_at": "2026-08-16T08:32:12.725Z",
-    "updated_at": "2026-08-16T08:32:45.593Z"
+    "updated_at": "2026-08-16T08:33:30.114Z"
   }
 ]
