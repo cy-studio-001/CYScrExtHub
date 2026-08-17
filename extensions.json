@@ -1225,5 +1225,23 @@
     "id": "ext_1786846126724_vvspuus2t",
     "approved_at": "2026-08-16T02:08:58.038Z",
     "is_cyso": false
+  },
+  {
+    "name": "黑霉菌",
+    "description": "没有什么用，娱乐，食用前必看：https://www.showyourcode.app/share/91pssemswrg5qc，其实可以用来观察霉菌。（不要拖进重复执行里，会很卡）",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786958207304_ypun21y62_黑霉菌.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786958207304_ypun21y62_黑霉菌.png",
+    "category": [
+      "游戏"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "doc_url": "https://www.showyourcode.app/share/91pssemswrg5qc",
+    "submitted_at": "2026-08-17T05:27:18.309Z",
+    "is_cyso": false,
+    "id": "ext_1786958207304_ypun21y62",
+    "approved_at": "2026-08-17T09:16:49.952Z"
   }
 ]
