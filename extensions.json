@@ -1250,7 +1250,6 @@
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786970818229_sj3ru1pzt_CYSO_CORE_.js",
     "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786970818229_sj3ru1pzt_CYSO_CORE_.png",
     "category": [
-      "CYSO",
       "实用"
     ],
     "version": "1.0.0",
@@ -1262,6 +1261,6 @@
     "id": "ext_1786970818229_sj3ru1pzt",
     "approved_at": "2026-08-17T12:47:00.485Z",
     "hidden": false,
-    "updated_at": "2026-08-17T12:48:16.075Z"
+    "updated_at": "2026-08-17T12:48:23.890Z"
   }
 ]
