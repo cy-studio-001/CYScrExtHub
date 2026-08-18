@@ -794,7 +794,7 @@
     "name": "框选扩展",
     "description": "框选扩展",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060263535_tt4x3u4vx_框选扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060263535_tt4x3u4vx_框选扩展.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787058537916_hqss1b.png",
     "category": [
       "实用"
     ],
@@ -807,7 +807,7 @@
     "id": "ext_1785060263535_tt4x3u4vx",
     "approved_at": "2026-07-26T10:04:29.254Z",
     "is_cyso": false,
-    "updated_at": "2026-08-18T13:08:41.397Z"
+    "updated_at": "2026-08-18T13:09:08.972Z"
   },
   {
     "name": "临时云变量",
