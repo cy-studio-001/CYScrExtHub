@@ -828,14 +828,13 @@
     "is_cyso": false
   },
   {
-    "name": "遥感扩展",
-    "description": "遥感扩展",
+    "name": "摇杆扩展",
+    "description": "为移动端适配的摇杆扩展",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060436120_yegn099at_遥感扩展.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060436120_yegn099at_遥感扩展.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787058085105_bncsba.png",
     "category": [
       "实用",
-      "多媒体",
-      "硬件"
+      "游戏"
     ],
     "version": "1.0.0",
     "author_name": "Maxkore",
@@ -845,7 +844,8 @@
     "submitted_at": "2026-07-26T09:38:54.597Z",
     "id": "ext_1785060436120_yegn099at",
     "approved_at": "2026-07-26T10:07:21.225Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T13:01:40.301Z"
   },
   {
     "name": "移动端方向键",
