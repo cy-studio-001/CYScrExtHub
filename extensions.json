@@ -806,7 +806,8 @@
     "submitted_at": "2026-07-26T09:35:52.156Z",
     "id": "ext_1785060263535_tt4x3u4vx",
     "approved_at": "2026-07-26T10:04:29.254Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T13:08:41.397Z"
   },
   {
     "name": "临时云变量",
