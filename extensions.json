@@ -870,7 +870,7 @@
     "name": "作品锁",
     "description": "保护你的作品",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785061522218_gw5hcuc39_作品锁.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785061522218_gw5hcuc39_作品锁.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787057532233_fodv6b.png",
     "category": [
       "实用"
     ],
@@ -883,7 +883,7 @@
     "id": "ext_1785061522218_gw5hcuc39",
     "approved_at": "2026-07-26T10:25:28.390Z",
     "is_cyso": false,
-    "updated_at": "2026-08-18T12:52:01.677Z"
+    "updated_at": "2026-08-18T12:52:27.213Z"
   },
   {
     "name": "YOLO的内嵌框架",
