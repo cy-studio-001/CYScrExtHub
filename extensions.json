@@ -872,8 +872,7 @@
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785061522218_gw5hcuc39_作品锁.js",
     "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785061522218_gw5hcuc39_作品锁.png",
     "category": [
-      "实用",
-      "硬件"
+      "实用"
     ],
     "version": "1.0.0",
     "author_name": "Maxkore",
@@ -883,7 +882,8 @@
     "submitted_at": "2026-07-26T09:44:33.951Z",
     "id": "ext_1785061522218_gw5hcuc39",
     "approved_at": "2026-07-26T10:25:28.390Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T12:52:01.677Z"
   },
   {
     "name": "YOLO的内嵌框架",
