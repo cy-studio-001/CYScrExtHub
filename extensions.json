@@ -848,10 +848,10 @@
     "is_cyso": false
   },
   {
-    "name": "移动端",
-    "description": "移动端",
+    "name": "移动端方向键",
+    "description": "专为移动端适配的移动端方向键扩展！",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060511824_gq6d9sw9s_移动端.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060511824_gq6d9sw9s_移动端.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787057795593_vi807d.png",
     "category": [
       "实用",
       "硬件"
@@ -864,7 +864,8 @@
     "submitted_at": "2026-07-26T09:39:44.145Z",
     "id": "ext_1785060511824_gq6d9sw9s",
     "approved_at": "2026-07-26T10:08:36.989Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T12:56:44.027Z"
   },
   {
     "name": "作品锁",
