@@ -1122,10 +1122,9 @@
     "name": "自定义积木+",
     "description": "自定义积木+",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1786519093931_i9azxhn4x_自定义积木_.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1786519093931_i9azxhn4x_自定义积木_.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787056317262_mlqpcf.png",
     "category": [
-      "实用",
-      "硬件"
+      "实用"
     ],
     "version": "1.0.0",
     "author_name": "Maxkore",
@@ -1136,7 +1135,7 @@
     "id": "ext_1786519093931_i9azxhn4x",
     "approved_at": "2026-08-12T07:18:19.439Z",
     "is_cyso": false,
-    "updated_at": "2026-08-18T12:31:16.829Z"
+    "updated_at": "2026-08-18T12:32:07.522Z"
   },
   {
     "name": "可回收音频",
