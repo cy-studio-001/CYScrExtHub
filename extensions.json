@@ -971,10 +971,9 @@
     "name": "广播+",
     "description": "广播+",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785571410654_f0t1gqz74_广播_.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785571410654_f0t1gqz74_广播_.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787056496415_fvpw6s.png",
     "category": [
       "实用",
-      "硬件",
       "多媒体"
     ],
     "version": "1.0.0",
@@ -985,7 +984,8 @@
     "submitted_at": "2026-07-27T04:35:15.212Z",
     "id": "ext_1785571410654_f0t1gqz74",
     "approved_at": "2026-08-01T08:03:36.230Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T12:35:07.165Z"
   },
   {
     "name": "灵动弹窗",
