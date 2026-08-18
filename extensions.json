@@ -825,7 +825,8 @@
     "submitted_at": "2026-07-26T09:38:07.287Z",
     "id": "ext_1785060337376_a0jktouf8",
     "approved_at": "2026-07-26T10:05:42.906Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T13:03:57.066Z"
   },
   {
     "name": "摇杆扩展",
