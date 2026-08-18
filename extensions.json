@@ -779,7 +779,10 @@
     "description": "HTML实验室",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785060139192_qa0w0i7kh_HTML实验室.js",
     "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785060139192_qa0w0i7kh_HTML实验室.png",
-    "category": [],
+    "category": [
+      "实用",
+      "网络"
+    ],
     "version": "1.0.0",
     "author_name": "Maxkore",
     "author_id": 3,
@@ -788,7 +791,8 @@
     "submitted_at": "2026-07-26T09:32:16.058Z",
     "id": "ext_1785060139192_qa0w0i7kh",
     "approved_at": "2026-07-26T10:02:24.805Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T13:14:07.101Z"
   },
   {
     "name": "框选扩展",
