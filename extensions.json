@@ -952,7 +952,7 @@
     "name": "Three3D.js",
     "description": "Three3D.js",
     "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1785571343237_clp1cav5h_Three3D_js.js",
-    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1785571343237_clp1cav5h_Three3D_js.png",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/cover_1787056782570_8a8mvi.png",
     "category": [
       "实用",
       "硬件"
@@ -965,7 +965,8 @@
     "submitted_at": "2026-07-27T03:53:10.079Z",
     "id": "ext_1785571343237_clp1cav5h",
     "approved_at": "2026-08-01T08:02:29.176Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "updated_at": "2026-08-18T12:40:00.859Z"
   },
   {
     "name": "广播+",
