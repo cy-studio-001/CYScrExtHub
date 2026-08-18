@@ -1261,5 +1261,23 @@
     "id": "ext_1787053737421_noj2m9vkk",
     "approved_at": "2026-08-18T11:48:59.945Z",
     "updated_at": "2026-08-18T11:56:18.491Z"
+  },
+  {
+    "name": "白猫的高级鼠标",
+    "description": "白猫的高级鼠标，自定义你的鼠标指针。",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1787054700561_u134lxxod_白猫的高级鼠标.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1787054700561_u134lxxod_白猫的高级鼠标.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "cy_studio",
+    "author_id": 1,
+    "is_repost": true,
+    "original_author": "白猫吖",
+    "submitted_at": "2026-08-18T12:04:32.949Z",
+    "is_cyso": false,
+    "id": "ext_1787054700561_u134lxxod",
+    "approved_at": "2026-08-18T12:05:03.824Z"
   }
 ]
