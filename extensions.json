@@ -1123,7 +1123,9 @@
     "submitted_at": "2026-08-06T14:17:39.723Z",
     "id": "ext_1786502003290_e9p0qtvkb",
     "approved_at": "2026-08-12T02:33:27.213Z",
-    "is_cyso": false
+    "is_cyso": false,
+    "hidden": true,
+    "updated_at": "2026-08-19T12:58:38.657Z"
   },
   {
     "name": "自定义积木+",
