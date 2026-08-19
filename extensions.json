@@ -949,7 +949,9 @@
     "submitted_at": "2026-07-28T11:10:01.466Z",
     "id": "ext_1785246517825_wsdgsczt7",
     "approved_at": "2026-07-28T13:48:42.276Z",
-    "is_cyso": true
+    "is_cyso": true,
+    "hidden": true,
+    "updated_at": "2026-08-19T12:52:53.138Z"
   },
   {
     "name": "Three3D.js",
