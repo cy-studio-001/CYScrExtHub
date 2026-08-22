@@ -1288,5 +1288,28 @@
     "is_cyso": false,
     "id": "ext_1787054700561_u134lxxod",
     "approved_at": "2026-08-18T12:05:03.824Z"
+  },
+  {
+    "name": "shader track v8.8332",
+    "description": "允许让图层或角色或屏幕使用着色器，此外，内置了一些基础着色器",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1787392110900_na8t8k5x9_shader_track_v8_8332.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1787392110900_na8t8k5x9_shader_track_v8_8332.png",
+    "category": [
+      "实用",
+      "硬件",
+      "AI",
+      "网络",
+      "多媒体",
+      "游戏",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "3056108454",
+    "author_id": 41,
+    "is_repost": false,
+    "submitted_at": "2026-08-20T15:46:43.563Z",
+    "is_cyso": false,
+    "id": "ext_1787392110900_na8t8k5x9",
+    "approved_at": "2026-08-22T09:48:34.391Z"
   }
 ]
