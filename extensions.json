@@ -1311,5 +1311,24 @@
     "is_cyso": false,
     "id": "ext_1787392110900_na8t8k5x9",
     "approved_at": "2026-08-22T09:48:34.391Z"
+  },
+  {
+    "name": "跨角色使用造型及声音",
+    "description": "允许角色a使用角色a1的造型。角色a使用角色a1的声音",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1787394868661_srblalw2m_跨角色使用造型及声音.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1787394868661_srblalw2m_跨角色使用造型及声音.png",
+    "category": [
+      "实用",
+      "游戏",
+      "硬件"
+    ],
+    "version": "1.0.0",
+    "author_name": "3056108454",
+    "author_id": 41,
+    "is_repost": false,
+    "submitted_at": "2026-08-20T15:50:25.831Z",
+    "is_cyso": false,
+    "id": "ext_1787394868661_srblalw2m",
+    "approved_at": "2026-08-22T10:34:31.181Z"
   }
 ]
