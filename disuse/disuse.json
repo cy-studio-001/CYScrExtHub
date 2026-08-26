@@ -339,5 +339,23 @@
     "github_cover_path": "disuse/covers/submit_1786873127146_5fn9dkgm1_对话气泡.png",
     "disused_at": "2026-08-16T11:42:52.517Z",
     "reason": "总体非常实用，但存在一下问题：\n1.部分功能无法使用（部分字体，对其方式、背景图实测无法正常使用）\n2.优化性能\n3.添加更多实用功能（可选，例如说话时间等等）\n期待更新后的版本！！"
+  },
+  {
+    "name": "红色积木",
+    "description": "在项目中快速加入红色积木且无需修改项目的JSON",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1787711214061_xsi7wiear_红色积木.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1787711214061_xsi7wiear_红色积木.png",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "qazk",
+    "author_id": 7,
+    "is_repost": false,
+    "submitted_at": "2026-08-26T02:27:11.287Z",
+    "is_cyso": false,
+    "submit_id": "submit_1787711231287_etmje38bq",
+    "github_file_path": "disuse/files/submit_1787711214061_xsi7wiear_红色积木.js",
+    "github_cover_path": "disuse/covers/submit_1787711214061_xsi7wiear_红色积木.png",
+    "disused_at": "2026-08-26T07:24:17.930Z",
+    "reason": "无任何实际作用"
   }
 ]
