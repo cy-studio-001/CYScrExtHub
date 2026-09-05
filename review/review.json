@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "name": "高精度运算",
+    "description": "高精度运算，oooppp",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1788597337797_2ix44sjho_高精度运算.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1788597337797_2ix44sjho_高精度运算.png",
+    "category": [
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "abcdefgawa",
+    "author_id": 44,
+    "is_repost": false,
+    "submitted_at": "2026-09-05T08:35:41.990Z",
+    "github_file_path": "review/files/submit_1788597337797_2ix44sjho_高精度运算.js",
+    "github_cover_path": "review/covers/submit_1788597337797_2ix44sjho_高精度运算.png",
+    "is_cyso": false,
+    "submit_id": "submit_1788597341990_2f7viqbk2",
+    "submitted_by": 44
+  }
+]
