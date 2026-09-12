@@ -1287,7 +1287,9 @@
     "submitted_at": "2026-08-18T12:04:32.949Z",
     "is_cyso": false,
     "id": "ext_1787054700561_u134lxxod",
-    "approved_at": "2026-08-18T12:05:03.824Z"
+    "approved_at": "2026-08-18T12:05:03.824Z",
+    "hidden": true,
+    "updated_at": "2026-09-12T05:21:55.283Z"
   },
   {
     "name": "shader track v8.8332",
