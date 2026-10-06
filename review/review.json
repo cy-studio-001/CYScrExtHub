@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "name": "灵动弹窗",
+    "description": "网站：https://zmr123.cn",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1791278320747_kyb4rjrbq_灵动弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1791278320747_kyb4rjrbq_灵动弹窗.png",
+    "category": [
+      "游戏"
+    ],
+    "version": "1.0.0",
+    "author_name": "张某人",
+    "author_id": 48,
+    "is_repost": false,
+    "submitted_at": "2026-10-06T09:18:45.561Z",
+    "github_file_path": "review/files/submit_1791278320747_kyb4rjrbq_灵动弹窗.js",
+    "github_cover_path": "review/covers/submit_1791278320747_kyb4rjrbq_灵动弹窗.png",
+    "is_cyso": false,
+    "submit_id": "submit_1791278325561_hziuhv0vr",
+    "submitted_by": 48
+  }
+]
