@@ -1349,5 +1349,22 @@
     "is_cyso": false,
     "id": "ext_1789178493110_2zex708im",
     "approved_at": "2026-09-12T02:01:35.565Z"
+  },
+  {
+    "name": "灵动弹窗",
+    "description": "网站：https://zmr123.cn",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1792240584355_l4sn07frk_灵动弹窗.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1792240584355_l4sn07frk_灵动弹窗.png",
+    "category": [
+      "游戏"
+    ],
+    "version": "1.0.0",
+    "author_name": "张某人",
+    "author_id": 48,
+    "is_repost": false,
+    "submitted_at": "2026-10-06T09:18:45.561Z",
+    "is_cyso": false,
+    "id": "ext_1792240584355_l4sn07frk",
+    "approved_at": "2026-10-17T12:36:27.731Z"
   }
 ]
