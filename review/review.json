@@ -19,5 +19,25 @@
     "is_cyso": false,
     "submit_id": "submit_1792844889633_uvvs60gkj",
     "submitted_by": 26
+  },
+  {
+    "name": "教研助手",
+    "description": "从一个高级代码答题OJ的图形化编辑器的代码里面提取出来的。\r\n里面的积木大部分较为食用。\r\n原版建议介绍：“给老师的一些积木”\r\n大部分需要vm.runtime()。\r\n原版扩展没有封面，此封面是额外绘制的",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1792851618135_eju5uy8fm_教研助手.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1792851618135_eju5uy8fm_教研助手.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "B-ASKET",
+    "author_id": 50,
+    "is_repost": true,
+    "original_author": "https://syrgzn.cn/scratch3/index.html",
+    "submitted_at": "2026-10-24T14:20:25.770Z",
+    "github_file_path": "review/files/submit_1792851618135_eju5uy8fm_教研助手.js",
+    "github_cover_path": "review/covers/submit_1792851618135_eju5uy8fm_教研助手.png",
+    "is_cyso": false,
+    "submit_id": "submit_1792851625770_n1sx2np12",
+    "submitted_by": 50
   }
 ]
