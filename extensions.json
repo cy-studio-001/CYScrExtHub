@@ -1366,5 +1366,22 @@
     "is_cyso": false,
     "id": "ext_1792240584355_l4sn07frk",
     "approved_at": "2026-10-17T12:36:27.731Z"
+  },
+  {
+    "name": "美化编辑器",
+    "description": "比插件弄得还漂亮，",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/files/ext_1792823003249_yjyg09gq3_美化编辑器.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/extend/covers/ext_1792823003249_yjyg09gq3_美化编辑器.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-10-23T11:47:49.575Z",
+    "is_cyso": false,
+    "id": "ext_1792823003249_yjyg09gq3",
+    "approved_at": "2026-10-24T06:23:25.923Z"
   }
 ]
