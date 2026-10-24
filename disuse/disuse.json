@@ -357,5 +357,25 @@
     "github_cover_path": "disuse/covers/submit_1787711214061_xsi7wiear_红色积木.png",
     "disused_at": "2026-08-26T07:24:17.930Z",
     "reason": "无任何实际作用"
+  },
+  {
+    "name": "美化编辑器",
+    "description": "比插件弄得还漂亮，",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1792756118181_m7bg8lbke_美化编辑器.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1792756118181_m7bg8lbke_美化编辑器.png",
+    "category": [
+      "实用"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-10-23T11:48:44.278Z",
+    "is_cyso": false,
+    "submit_id": "submit_1792756124278_099ni1438",
+    "github_file_path": "disuse/files/submit_1792756118181_m7bg8lbke_美化编辑器.js",
+    "github_cover_path": "disuse/covers/submit_1792756118181_m7bg8lbke_美化编辑器.png",
+    "disused_at": "2026-10-24T06:23:53.959Z",
+    "reason": "重复投稿"
   }
 ]
