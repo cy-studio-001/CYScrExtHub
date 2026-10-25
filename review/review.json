@@ -39,5 +39,26 @@
     "is_cyso": false,
     "submit_id": "submit_1792851625770_n1sx2np12",
     "submitted_by": 50
+  },
+  {
+    "name": "美化编辑器v2.0",
+    "description": "增加了存档和更多的积木预设、全局主题",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1792898688732_m2lp7125s_美化编辑器v2_0.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1792898688732_m2lp7125s_美化编辑器v2_0.png",
+    "category": [
+      "实用",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "doc_url": "https://www.showyourcode.app/zh/share/ho9zt1mvn9k3ae",
+    "submitted_at": "2026-10-25T03:24:57.016Z",
+    "github_file_path": "review/files/submit_1792898688732_m2lp7125s_美化编辑器v2_0.js",
+    "github_cover_path": "review/covers/submit_1792898688732_m2lp7125s_美化编辑器v2_0.png",
+    "is_cyso": false,
+    "submit_id": "submit_1792898697016_4kye8wt6l",
+    "submitted_by": 30
   }
 ]
