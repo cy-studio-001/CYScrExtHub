@@ -60,5 +60,24 @@
     "is_cyso": false,
     "submit_id": "submit_1792898697016_4kye8wt6l",
     "submitted_by": 30
+  },
+  {
+    "name": "Do you have an iPhone?",
+    "description": "Interesting building blocks",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/files/submit_1793358216322_kvak7ioc2_Do_you_have_an_iPhone_.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/review/covers/submit_1793358216322_kvak7ioc2_Do_you_have_an_iPhone_.png",
+    "category": [
+      "网络"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-10-30T11:03:41.129Z",
+    "github_file_path": "review/files/submit_1793358216322_kvak7ioc2_Do_you_have_an_iPhone_.js",
+    "github_cover_path": "review/covers/submit_1793358216322_kvak7ioc2_Do_you_have_an_iPhone_.png",
+    "is_cyso": false,
+    "submit_id": "submit_1793358221129_6t4k944gn",
+    "submitted_by": 30
   }
 ]
