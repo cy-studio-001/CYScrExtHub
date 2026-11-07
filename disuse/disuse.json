@@ -398,5 +398,27 @@
     "github_cover_path": "disuse/covers/submit_1792851618135_eju5uy8fm_教研助手.png",
     "disused_at": "2026-11-07T06:49:22.887Z",
     "reason": "不建议作为通用扩展公开分享"
+  },
+  {
+    "name": "unicode查询转换工具",
+    "description": "一个unicode查询转换工具",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1792844882903_run5y1oo7_unicode查询转换工具.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1792844882903_run5y1oo7_unicode查询转换工具.png",
+    "category": [
+      "实用",
+      "运算"
+    ],
+    "version": "1.0.0",
+    "author_name": "sss",
+    "author_id": 26,
+    "is_repost": true,
+    "original_author": "VectorDev",
+    "submitted_at": "2026-10-24T12:28:09.633Z",
+    "is_cyso": false,
+    "submit_id": "submit_1792844889633_uvvs60gkj",
+    "github_file_path": "disuse/files/submit_1792844882903_run5y1oo7_unicode查询转换工具.js",
+    "github_cover_path": "disuse/covers/submit_1792844882903_run5y1oo7_unicode查询转换工具.png",
+    "disused_at": "2026-11-07T06:52:06.704Z",
+    "reason": "建议修复进制解析问题后发布，明确区分十进制与十六进制输入（如纯数字按十进制，带 0x/U+ 按十六进制）；错误提示细化原因；代理对输出增加说明；支持输入十进制码点。"
   }
 ]
