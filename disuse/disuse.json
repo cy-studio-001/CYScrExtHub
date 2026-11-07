@@ -420,5 +420,27 @@
     "github_cover_path": "disuse/covers/submit_1792844882903_run5y1oo7_unicode查询转换工具.png",
     "disused_at": "2026-11-07T06:52:06.704Z",
     "reason": "建议修复进制解析问题后发布，明确区分十进制与十六进制输入（如纯数字按十进制，带 0x/U+ 按十六进制）；错误提示细化原因；代理对输出增加说明；支持输入十进制码点。"
+  },
+  {
+    "name": "美化编辑器v2.0",
+    "description": "增加了存档和更多的积木预设、全局主题",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1792898688732_m2lp7125s_美化编辑器v2_0.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1792898688732_m2lp7125s_美化编辑器v2_0.png",
+    "category": [
+      "实用",
+      "AI"
+    ],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "doc_url": "https://www.showyourcode.app/zh/share/ho9zt1mvn9k3ae",
+    "submitted_at": "2026-10-25T03:24:57.016Z",
+    "is_cyso": false,
+    "submit_id": "submit_1792898697016_4kye8wt6l",
+    "github_file_path": "disuse/files/submit_1792898688732_m2lp7125s_美化编辑器v2_0.js",
+    "github_cover_path": "disuse/covers/submit_1792898688732_m2lp7125s_美化编辑器v2_0.png",
+    "disused_at": "2026-11-07T06:54:27.376Z",
+    "reason": "DROPDOWN 参数类型错误直接影响可用性，全局主题的宽泛 CSS 可能破坏编辑器，localStorage 缺少容错。实测会影响编辑器的使用，需修复并限制作用范围后再分享。"
   }
 ]
