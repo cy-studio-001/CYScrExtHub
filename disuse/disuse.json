@@ -442,5 +442,23 @@
     "github_cover_path": "disuse/covers/submit_1792898688732_m2lp7125s_美化编辑器v2_0.png",
     "disused_at": "2026-11-07T06:54:27.376Z",
     "reason": "DROPDOWN 参数类型错误直接影响可用性，全局主题的宽泛 CSS 可能破坏编辑器，localStorage 缺少容错。实测会影响编辑器的使用，需修复并限制作用范围后再分享。"
+  },
+  {
+    "name": "占位符",
+    "description": "ㅤ",
+    "download_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/files/submit_1793699364824_1g8zcil4y_占位符.js",
+    "cover_url": "https://raw.githubusercontent.com/cy-studio-001/CYScrExtHub/main/disuse/covers/submit_1793699364824_1g8zcil4y_占位符.gif",
+    "category": [],
+    "version": "1.0.0",
+    "author_name": "HMC",
+    "author_id": 30,
+    "is_repost": false,
+    "submitted_at": "2026-11-03T09:49:31.628Z",
+    "is_cyso": false,
+    "submit_id": "submit_1793699371628_fls13l535",
+    "github_file_path": "disuse/files/submit_1793699364824_1g8zcil4y_占位符.js",
+    "github_cover_path": "disuse/covers/submit_1793699364824_1g8zcil4y_占位符.gif",
+    "disused_at": "2026-11-07T06:59:57.671Z",
+    "reason": "有趣但对社区无任何作用..."
   }
 ]
