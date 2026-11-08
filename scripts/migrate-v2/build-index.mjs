@@ -16,7 +16,7 @@
  * 只读 manifest，只写 index/ —— 不触碰任何扩展文件。
  */
 
-import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, statSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync, renameSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { buildIndexes } from './lib/projection.mjs';
 import {
@@ -161,6 +161,18 @@ function main() {
     const before = new Map(
         KINDS.map((kind) => [kind, readIndexIfExists(join(indexDir, `${kind}.json`))]),
     );
+
+    // 清理上次被取消/超时所遗留的临时目录，避免它们被后续 git add 误提交。
+    if (existsSync(indexDir)) {
+        for (const name of readdirSync(indexDir)) {
+            if (!name.startsWith('.build-')) continue;
+            try {
+                rmSync(join(indexDir, name), { recursive: true, force: true });
+            } catch (error) {
+                console.warn(`[index] 清理旧临时目录失败（忽略）: ${name}`, error.message);
+            }
+        }
+    }
 
     const tempDir = join(indexDir, `.build-${process.pid}-${Date.now()}`);
     let written;
