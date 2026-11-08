@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "rs3tn1runnlds3",
+  "slug": "alpha-1-0-ai",
+  "name": "临时列表 Alpha 1.0 - AI辅助生成",
+  "description": "创建临时列表[NAME]\r\n增加[ITEM]到临时列表[NAME]\r\n从临时列表[NAME]删除第[INDEX]项\r\n删除临时列表[NAME]\r\n清空临时列表[NAME]\r\n(临时列表[NAME]的项目数)\r\n(临时列表[NAME]的第[INDEX]项)\r\n(所有临时列表名称)",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "AI",
+    "实用",
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 37,
+  "author_name_snapshot": "huangziang222",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 10147,
+      "sha": "f0906d00ce9e8e79fa2889ef2506764ab241f123",
+      "at": "2026-11-08T04:11:34.214Z"
+    }
+  ],
+  "created_at": "2026-08-14T04:45:01.912Z",
+  "updated_at": "2026-11-08T04:11:34.227Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-08-15T05:03:03.368Z",
+    "by": 0,
+    "reason": "不错 可惜连系统自带列表的在某一项前插入功能都没有可以升级一下哈~"
+  }
+}

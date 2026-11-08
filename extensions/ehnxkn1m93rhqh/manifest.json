@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "ehnxkn1m93rhqh",
+  "slug": "ext-ehnxkn",
+  "name": "高精度运算",
+  "description": "高精度运算，oooppp",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 44,
+  "author_name_snapshot": "abcdefgawa",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 75620,
+      "sha": "93e7718dbe45fb87e6e83a56ea49ec291169e42b",
+      "at": "2026-11-08T04:11:34.140Z"
+    }
+  ],
+  "created_at": "2026-09-05T08:35:41.990Z",
+  "updated_at": "2026-11-08T04:11:34.150Z",
+  "cover": "cover.png",
+  "published_at": "2026-09-12T02:01:35.565Z"
+}

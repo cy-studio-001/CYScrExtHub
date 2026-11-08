@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "ht53ojm6vpobir",
+  "slug": "morgan",
+  "name": "Morgan的工具箱",
+  "description": "扩展是象棋脑工作室制作",
+  "status": "published",
+  "hidden": true,
+  "category": [
+    "实用",
+    "网络",
+    "硬件",
+    "游戏",
+    "多媒体",
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "https://github.com/chess-brain/code/issues/3",
+  "doc_url": "",
+  "author_id": 6,
+  "author_name_snapshot": "dhdbvcg",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 35340,
+      "sha": "ab9324f4042dc136c97162678ba5cd1d00d96abf",
+      "at": "2026-11-08T04:11:33.876Z"
+    }
+  ],
+  "created_at": "2026-08-06T14:17:39.723Z",
+  "updated_at": "2026-08-19T12:58:38.657Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-12T02:33:27.213Z"
+}

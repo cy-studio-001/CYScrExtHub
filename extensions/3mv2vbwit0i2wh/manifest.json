@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "3mv2vbwit0i2wh",
+  "slug": "cyso-core",
+  "name": "CYSO CORE+",
+  "description": "CYSO Editor编辑器官方的CYSO CORE权限扩展，内置编辑器目前支持的所有的权限调用积木，轻松便捷调用系统权限！扩展本身安全无毒，放心使用！",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": true,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 1,
+  "author_name_snapshot": "cy_studio",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 31853,
+      "sha": "cbcba655bdde1371aee04c3981a08a8a006a20d8",
+      "at": "2026-11-08T04:11:34.030Z"
+    }
+  ],
+  "created_at": "2026-08-18T11:48:15.556Z",
+  "updated_at": "2026-08-18T11:56:18.491Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-18T11:48:59.945Z"
+}

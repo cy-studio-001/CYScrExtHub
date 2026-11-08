@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "id": "5i4i5bphnvpu77",
+  "slug": "ext-5i4i5b",
+  "name": "跨角色使用造型及声音",
+  "description": "允许角色a使用角色a1的造型。角色a使用角色a1的声音",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "游戏",
+    "硬件"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 41,
+  "author_name_snapshot": "3056108454",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 28530,
+      "sha": "d72909ed42459150f8669d7a0785f3cc020dd948",
+      "at": "2026-11-08T04:11:34.107Z"
+    }
+  ],
+  "created_at": "2026-08-20T15:50:25.831Z",
+  "updated_at": "2026-11-08T04:11:34.132Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-22T10:34:31.181Z"
+}

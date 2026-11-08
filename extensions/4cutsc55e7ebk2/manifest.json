@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "4cutsc55e7ebk2",
+  "slug": "ext-4cutsc",
+  "name": "对话气泡",
+  "description": "来自鲨鱼池（SharkPool）Speech-Bubbles扩展的汉化版，你可以从02Engine（编辑器网址 https://editor.02engine.org/index.html，官网https://02engine.02studio.xyz/）的扩展库里找到。",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 32502,
+      "sha": "54f1a2b4690da8f066e6a4fd0e9140d22ffa746a",
+      "at": "2026-11-08T04:11:34.481Z"
+    }
+  ],
+  "created_at": "2026-08-16T09:38:51.543Z",
+  "updated_at": "2026-11-08T04:11:34.494Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-08-16T11:42:52.517Z",
+    "by": 0,
+    "reason": "总体非常实用，但存在一下问题：\n1.部分功能无法使用（部分字体，对其方式、背景图实测无法正常使用）\n2.优化性能\n3.添加更多实用功能（可选，例如说话时间等等）\n期待更新后的版本！！"
+  }
+}

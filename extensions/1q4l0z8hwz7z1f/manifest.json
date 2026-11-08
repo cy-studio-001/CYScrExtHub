@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "1q4l0z8hwz7z1f",
+  "slug": "ext-1q4l0z",
+  "name": "电脑文档分析",
+  "description": "电脑文档分析",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "CYSO"
+  ],
+  "is_cyso": true,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 39448,
+      "sha": "306decc8eafff58ff4bc652d859e80704a1e8bd4",
+      "at": "2026-11-08T04:11:33.136Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:23:17.534Z",
+  "updated_at": "2026-11-08T04:11:33.147Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T05:32:30.398Z"
+}

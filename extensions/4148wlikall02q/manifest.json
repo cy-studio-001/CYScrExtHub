@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "4148wlikall02q",
+  "slug": "mac",
+  "name": "毛玻璃Mac风窗口",
+  "description": "更便捷的制作MacOS",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体",
+    "AI",
+    "游戏",
+    "硬件"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 25756,
+      "sha": "40615dd3740cf4eceae1e5aa41e4f05da8a8fc99",
+      "at": "2026-11-08T04:11:32.903Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:13:19.667Z",
+  "updated_at": "2026-11-08T04:11:32.911Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T04:26:56.580Z"
+}

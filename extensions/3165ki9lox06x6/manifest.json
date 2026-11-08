@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "3165ki9lox06x6",
+  "slug": "ext-3165ki",
+  "name": "计算器扩展",
+  "description": "本扩展数学要素最多，目前版本制的话已经有集合的东西，现在只要是TW/02/PM等都可以导入，如果没导入，可能最多的情况是下载时出了一点问题，重新下载就好了，如果没用，可以第一时间反馈作者：https://space.bilibili.com/3546949919705808;目前是最新版本，想要别的版本可以去我的GITHUB",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "https://github.com/Calculator-Extension-Author1/TW-02--/blob/main/README.md",
+  "author_id": 32,
+  "author_name_snapshot": "Bluest_iloveblue5715",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 134939,
+      "sha": "5aa4593b064eeb05388e997c5557a65428363550",
+      "at": "2026-11-08T04:11:33.945Z"
+    }
+  ],
+  "created_at": "2026-08-13T04:59:09.568Z",
+  "updated_at": "2026-08-17T04:32:09.086Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-13T05:02:16.657Z"
+}

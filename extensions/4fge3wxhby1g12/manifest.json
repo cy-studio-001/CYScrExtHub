@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "4fge3wxhby1g12",
+  "slug": "ext-4fge3w",
+  "name": "无敌弹窗",
+  "description": "无敌弹窗",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 45683,
+      "sha": "0e77d06d813bee10457bbfae83e795fd8d7b80dc",
+      "at": "2026-11-08T04:11:33.279Z"
+    }
+  ],
+  "created_at": "2026-07-18T06:47:45.022Z",
+  "updated_at": "2026-11-08T04:11:33.301Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-19T06:42:40.567Z"
+}

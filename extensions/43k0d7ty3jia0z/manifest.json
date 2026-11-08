@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "43k0d7ty3jia0z",
+  "slug": "ext-43k0d7",
+  "name": "高级封屏",
+  "description": "防止F12",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 4927,
+      "sha": "a0e190a15f39edfb0181938076d9f25c162ba8d5",
+      "at": "2026-11-08T04:11:32.836Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:10:53.430Z",
+  "updated_at": "2026-11-08T04:11:32.844Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T04:19:59.425Z"
+}

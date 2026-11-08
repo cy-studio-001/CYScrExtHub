@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "5n881ukqgmdscj",
+  "slug": "ext-5n881u",
+  "name": "灵动弹窗",
+  "description": "使用方法：在 TurboWarp（或其他二改编辑器，兼容Gandi） 中选择「自定义扩展」，加载本文件，并勾选「不使用沙盒运行扩展 (Run without sandbox)」。",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 27,
+  "author_name_snapshot": "勇敢的菠萝吖",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 32455,
+      "sha": "49127274f90c7ce072bd2d0190fb8cd6e63fc74a",
+      "at": "2026-11-08T04:11:33.760Z"
+    }
+  ],
+  "created_at": "2026-07-30T02:12:54.960Z",
+  "updated_at": "2026-11-08T04:11:33.771Z",
+  "cover": "cover.jpg",
+  "published_at": "2026-08-01T08:04:40.324Z"
+}

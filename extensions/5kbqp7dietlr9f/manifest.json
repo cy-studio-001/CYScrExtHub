@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "5kbqp7dietlr9f",
+  "slug": "cyso",
+  "name": "CYSO电脑控制+",
+  "description": "CYSO电脑控制+",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 25133,
+      "sha": "5d0c673958e1cd6d338df6008e5b8f00bfcee2ee",
+      "at": "2026-11-08T04:11:34.414Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:22:20.380Z",
+  "updated_at": "2026-11-08T04:11:34.426Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-17T05:26:17.201Z",
+    "by": 0,
+    "reason": "扩展名称不符；存在操作bug；用户体验不佳；"
+  }
+}

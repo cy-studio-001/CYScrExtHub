@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "4noove6zn3a65k",
+  "slug": "ext-4noove",
+  "name": "天气",
+  "description": "天气",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "CYSO",
+    "实用"
+  ],
+  "is_cyso": true,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 1,
+  "author_name_snapshot": "cy_studio",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 14943,
+      "sha": "b62b1fb746828f75223fb097d30ddba0c01b42fc",
+      "at": "2026-11-08T04:11:34.307Z"
+    }
+  ],
+  "created_at": "2026-07-21T11:26:24.561Z",
+  "updated_at": "2026-11-08T04:11:34.314Z",
+  "cover": "cover.jpg",
+  "disuse": {
+    "at": "2026-07-21T12:19:14.902Z",
+    "by": 0,
+    "reason": "测试"
+  }
+}

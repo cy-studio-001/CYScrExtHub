@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "17ky3qstaefguc",
+  "slug": "ext-17ky3q",
+  "name": "红色积木",
+  "description": "在项目中快速加入红色积木且无需修改项目的JSON",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 7,
+  "author_name_snapshot": "qazk",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 461,
+      "sha": "38237e2879c159a8c3a7e6605539632106acc0a7",
+      "at": "2026-11-08T04:11:34.499Z"
+    }
+  ],
+  "created_at": "2026-08-26T02:27:11.287Z",
+  "updated_at": "2026-11-08T04:11:34.509Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-08-26T07:24:17.930Z",
+    "by": 0,
+    "reason": "无任何实际作用"
+  }
+}

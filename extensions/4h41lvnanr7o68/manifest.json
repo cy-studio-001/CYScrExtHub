@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "id": "4h41lvnanr7o68",
+  "slug": "ext-4h41lv",
+  "name": "摇杆扩展",
+  "description": "为移动端适配的摇杆扩展",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "游戏"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "10000Why",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 5887,
+      "sha": "623b5cd6e52cda29269b9d2b0e80a4381e9de397",
+      "at": "2026-11-08T04:11:33.608Z"
+    }
+  ],
+  "created_at": "2026-07-26T09:38:54.597Z",
+  "updated_at": "2026-08-18T13:01:40.301Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-26T10:07:21.225Z"
+}

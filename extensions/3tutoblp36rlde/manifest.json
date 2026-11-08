@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "3tutoblp36rlde",
+  "slug": "ext-3tutob",
+  "name": "美化编辑器",
+  "description": "比插件弄得还漂亮，",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 27861,
+      "sha": "663ddf9693e937173c941473bbd9f0b480677930",
+      "at": "2026-11-08T04:11:34.175Z"
+    }
+  ],
+  "created_at": "2026-10-23T11:47:49.575Z",
+  "updated_at": "2026-11-08T04:11:34.184Z",
+  "cover": "cover.png",
+  "published_at": "2026-10-24T06:23:25.923Z"
+}

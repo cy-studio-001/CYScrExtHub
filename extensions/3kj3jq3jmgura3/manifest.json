@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "id": "3kj3jq3jmgura3",
+  "slug": "ext-3kj3jq",
+  "name": "飞书",
+  "description": "飞书-✨更好的WebHook",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "多媒体",
+    "网络",
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 23993,
+      "sha": "09ab5a19bd8bbde320c260188e2ba3888b8ca501",
+      "at": "2026-11-08T04:11:33.860Z"
+    }
+  ],
+  "created_at": "2026-08-12T02:29:27.080Z",
+  "updated_at": "2026-11-08T04:11:33.870Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-12T02:31:33.835Z"
+}

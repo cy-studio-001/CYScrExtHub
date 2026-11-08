@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "4jygcjewr5zf4a",
+  "slug": "ext-4jygcj",
+  "name": "方向运动",
+  "description": "一个豆包写的扩展，给不了解想x，y坐标的萌新用",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "AI",
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 2252,
+      "sha": "91840c6a29102b3d5b98ac83db404e6fb9892221",
+      "at": "2026-11-08T04:11:34.247Z"
+    }
+  ],
+  "created_at": "2026-08-12T03:55:42.878Z",
+  "updated_at": "2026-11-08T04:11:34.258Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-08-12T07:09:58.849Z",
+    "by": 0,
+    "reason": "无用切勿意义(通过控制x,y坐标即可移动)看得出来你的扩展是自己写的 加油哦！"
+  }
+}

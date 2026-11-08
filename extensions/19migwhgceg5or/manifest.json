@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "19migwhgceg5or",
+  "slug": "ppt",
+  "name": "PPT角色动画",
+  "description": "像制作PPT一样简单的制作动画",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "游戏"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 75740,
+      "sha": "3a79ba255f1bbfe5ed20cdde018177c2429f1094",
+      "at": "2026-11-08T04:11:34.364Z"
+    }
+  ],
+  "created_at": "2026-07-18T06:49:21.037Z",
+  "updated_at": "2026-11-08T04:11:34.376Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-19T06:50:09.691Z",
+    "by": 0,
+    "reason": "部分功能无法使用；添加停止动画时同时删除临时造型设计，避免占用。"
+  }
+}

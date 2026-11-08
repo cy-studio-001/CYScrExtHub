@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "id": "7yjycm8bot6gr3",
+  "slug": "html",
+  "name": "HTML",
+  "description": "强大的HTML",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "网络",
+    "多媒体"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 34935,
+      "sha": "57ad8312f1d0940587e2e5123c59379048b5a860",
+      "at": "2026-11-08T04:11:32.742Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:04:18.699Z",
+  "updated_at": "2026-08-13T09:42:14.627Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T04:13:07.304Z"
+}

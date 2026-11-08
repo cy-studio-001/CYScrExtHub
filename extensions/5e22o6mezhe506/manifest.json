@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "5e22o6mezhe506",
+  "slug": "7z",
+  "name": "7z压缩拓展",
+  "description": "可以将文本按照7z格式进行压缩",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 26,
+  "author_name_snapshot": "sss",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 15484,
+      "sha": "a0b3e2521dae17f5d7005ff60f514ad7602c2eca",
+      "at": "2026-11-08T04:11:33.513Z"
+    }
+  ],
+  "created_at": "2026-07-26T02:15:48.790Z",
+  "updated_at": "2026-11-08T04:11:33.525Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-26T09:50:26.023Z"
+}

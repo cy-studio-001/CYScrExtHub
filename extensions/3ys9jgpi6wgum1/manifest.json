@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "3ys9jgpi6wgum1",
+  "slug": "ext-3ys9jg",
+  "name": "通知",
+  "description": "使用deepseek修改的通知，turbowarp原版通知不支持自定义标题，设置是否静音和设置图标和一直显示，修改版支持自定义标题，是否静音，图标以及显示模式",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 7,
+  "author_name_snapshot": "qazk",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 5247,
+      "sha": "6fe7b01318799e9611ae4ba26c63e3ad2b67b898",
+      "at": "2026-11-08T04:11:33.214Z"
+    }
+  ],
+  "created_at": "2026-07-17T13:33:09.420Z",
+  "updated_at": "2026-11-08T04:11:33.227Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-18T02:14:48.301Z"
+}

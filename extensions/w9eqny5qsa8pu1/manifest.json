@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "id": "w9eqny5qsa8pu1",
+  "slug": "ext-w9eqny",
+  "name": "数字签名",
+  "description": "保护你的作品版权",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体",
+    "硬件"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 5951,
+      "sha": "d2544b2e19ecd59fcd2f7e16f7d0d8d5629b552e",
+      "at": "2026-11-08T04:11:33.096Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:18:26.602Z",
+  "updated_at": "2026-11-08T04:11:33.107Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T04:51:05.525Z"
+}

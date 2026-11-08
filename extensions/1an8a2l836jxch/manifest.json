@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "1an8a2l836jxch",
+  "slug": "ext-1an8a2",
+  "name": "框选扩展",
+  "description": "框选扩展",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "10000Why",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 13627,
+      "sha": "eadeb3ce9fbf1082cde6012d9f8e9a3132c4d443",
+      "at": "2026-11-08T04:11:33.571Z"
+    }
+  ],
+  "created_at": "2026-07-26T09:35:52.156Z",
+  "updated_at": "2026-08-18T13:09:08.972Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-26T10:04:29.254Z"
+}

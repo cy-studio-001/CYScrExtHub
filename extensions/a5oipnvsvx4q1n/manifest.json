@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "a5oipnvsvx4q1n",
+  "slug": "ext-a5oipn",
+  "name": "语音转代码",
+  "description": "语音转代码",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "10000Why",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 19795,
+      "sha": "7aa9772814007d9ce6c191b314a922a6bb099ff1",
+      "at": "2026-11-08T04:11:34.264Z"
+    }
+  ],
+  "created_at": "2026-07-26T09:41:28.588Z",
+  "updated_at": "2026-11-08T04:11:34.273Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-26T10:24:35.108Z",
+    "by": 0,
+    "reason": "不行"
+  }
+}

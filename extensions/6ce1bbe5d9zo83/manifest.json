@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "6ce1bbe5d9zo83",
+  "slug": "ext-6ce1bb",
+  "name": "剪切板+",
+  "description": "剪切板管理器",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 10777,
+      "sha": "1b92ce3fec4d5bc7fc158b2099bda35c406b50fd",
+      "at": "2026-11-08T04:11:32.869Z"
+    }
+  ],
+  "created_at": "2026-07-17T04:12:02.126Z",
+  "updated_at": "2026-11-08T04:11:32.876Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-17T04:21:54.914Z"
+}

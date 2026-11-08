@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "20i5i9bkd2sj8i",
+  "slug": "ext-20i5i9",
+  "name": "占位符",
+  "description": "ㅤ",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 627,
+      "sha": "9d1731dbdbe225c5cf4e157e6bce1d44112b1928",
+      "at": "2026-11-08T04:11:34.642Z"
+    }
+  ],
+  "created_at": "2026-11-03T09:49:31.628Z",
+  "updated_at": "2026-11-08T04:11:34.667Z",
+  "cover": "cover.gif",
+  "disuse": {
+    "at": "2026-11-07T06:59:57.671Z",
+    "by": 0,
+    "reason": "有趣但对社区无任何作用..."
+  }
+}

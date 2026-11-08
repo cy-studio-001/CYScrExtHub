@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "id": "39f3cqkcyben2x",
+  "slug": "ext-39f3cq",
+  "name": "广播+",
+  "description": "广播+",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "YL_YOLO",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 34878,
+      "sha": "3260c3a3a92e544a19d238970ccddd430e704b9c",
+      "at": "2026-11-08T04:11:33.740Z"
+    }
+  ],
+  "created_at": "2026-07-27T04:35:15.212Z",
+  "updated_at": "2026-08-18T12:35:07.165Z",
+  "cover": "cover.png",
+  "published_at": "2026-08-01T08:03:36.230Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "1jjs6twc3zfjbt",
+  "slug": "webhook-2",
+  "name": "WebHook",
+  "description": "✨更好的WebHook",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 1,
+  "author_name_snapshot": "cy_studio",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 9784,
+      "sha": "218e21ddd016eed52c03702e2cdc9c5b5799e88e",
+      "at": "2026-11-08T04:11:34.294Z"
+    }
+  ],
+  "created_at": "2026-07-22T01:49:31.823Z",
+  "updated_at": "2026-11-08T04:11:34.302Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-22T01:54:31.616Z",
+    "by": 0,
+    "reason": "展示引用"
+  }
+}

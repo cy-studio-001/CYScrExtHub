@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "id": "3dgmc538rzm5io",
+  "slug": "ext-3dgmc5",
+  "name": "通用弹窗",
+  "description": "通用弹窗",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 96442,
+      "sha": "0e9b01ed54d317f7dd8c1200ecd7d3e2660c9aae",
+      "at": "2026-11-08T04:11:33.308Z"
+    }
+  ],
+  "created_at": "2026-07-18T06:48:28.740Z",
+  "updated_at": "2026-11-08T04:11:33.322Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-19T06:44:30.357Z"
+}

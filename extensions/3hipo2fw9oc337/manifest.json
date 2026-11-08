@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "3hipo2fw9oc337",
+  "slug": "v2-0",
+  "name": "美化编辑器v2.0",
+  "description": "增加了存档和更多的积木预设、全局主题",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "AI"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "https://www.showyourcode.app/zh/share/ho9zt1mvn9k3ae",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 39856,
+      "sha": "658fff92b659d781431bb6d2f77ae36b7e6673a5",
+      "at": "2026-11-08T04:11:34.607Z"
+    }
+  ],
+  "created_at": "2026-10-25T03:24:57.016Z",
+  "updated_at": "2026-11-08T04:11:34.633Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-11-07T06:54:27.376Z",
+    "by": 0,
+    "reason": "DROPDOWN 参数类型错误直接影响可用性，全局主题的宽泛 CSS 可能破坏编辑器，localStorage 缺少容错。实测会影响编辑器的使用，需修复并限制作用范围后再分享。"
+  }
+}

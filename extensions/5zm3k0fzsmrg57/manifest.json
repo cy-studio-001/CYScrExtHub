@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "id": "5zm3k0fzsmrg57",
+  "slug": "yolo",
+  "name": "YOLO的内嵌框架",
+  "description": "YOLO的内嵌框架",
+  "status": "published",
+  "hidden": false,
+  "category": [
+    "实用",
+    "网络"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "YL_YOLO",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 70055,
+      "sha": "8481355e44bb22a7e46643333841b01d55b80858",
+      "at": "2026-11-08T04:11:33.661Z"
+    }
+  ],
+  "created_at": "2026-07-26T09:48:01.720Z",
+  "updated_at": "2026-08-18T12:49:15.785Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-26T10:30:41.455Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "y9sbw3frnbyk5b",
+  "slug": "unicode",
+  "name": "unicode查询转换工具",
+  "description": "一个unicode查询转换工具",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": true,
+  "original_author": "VectorDev",
+  "doc_url": "",
+  "author_id": 26,
+  "author_name_snapshot": "sss",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 4253,
+      "sha": "4b492764c44a0814e754f3daee72e0b392f7fb60",
+      "at": "2026-11-08T04:11:34.546Z"
+    }
+  ],
+  "created_at": "2026-10-24T12:28:09.633Z",
+  "updated_at": "2026-11-08T04:11:34.592Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-11-07T06:52:06.704Z",
+    "by": 0,
+    "reason": "建议修复进制解析问题后发布，明确区分十进制与十六进制输入（如纯数字按十进制，带 0x/U+ 按十六进制）；错误提示细化原因；代理对输出增加说明；支持输入十进制码点。"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "xz16iqcm0bgvua",
+  "slug": "better",
+  "name": "Better弹窗",
+  "description": "更好的弹窗",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 289483,
+      "sha": "49983521f78017724e7ccabeefc0c0fd3802a63c",
+      "at": "2026-11-08T04:11:34.325Z"
+    }
+  ],
+  "created_at": "2026-07-19T04:49:41.752Z",
+  "updated_at": "2026-11-08T04:11:34.333Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-19T07:00:26.859Z",
+    "by": 0,
+    "reason": "功能无法使用"
+  }
+}

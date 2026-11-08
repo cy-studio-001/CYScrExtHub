@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "3yp1rq0ro37eq3",
+  "slug": "ext-3yp1rq",
+  "name": "方向运动",
+  "description": "一个可以替代x，y坐标的扩展",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 30,
+  "author_name_snapshot": "HMC",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 2252,
+      "sha": "91840c6a29102b3d5b98ac83db404e6fb9892221",
+      "at": "2026-11-08T04:11:34.234Z"
+    }
+  ],
+  "created_at": "2026-08-12T04:51:22.868Z",
+  "updated_at": "2026-11-08T04:11:34.242Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-08-12T07:08:04.114Z",
+    "by": 0,
+    "reason": "你投稿了两个"
+  }
+}

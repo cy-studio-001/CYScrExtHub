@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "id": "2lj4wmfh8gu806",
+  "slug": "panelgui",
+  "name": "PanelGUI",
+  "description": "更好的GUI面板",
+  "status": "disuse",
+  "hidden": false,
+  "category": [
+    "实用",
+    "多媒体",
+    "网络",
+    "硬件",
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 3,
+  "author_name_snapshot": "Maxkore",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 56367,
+      "sha": "94c78f65ed7c1a3e87cf597051b1cb0de3d4f96d",
+      "at": "2026-11-08T04:11:34.381Z"
+    }
+  ],
+  "created_at": "2026-07-18T06:46:32.626Z",
+  "updated_at": "2026-11-08T04:11:34.394Z",
+  "cover": "cover.png",
+  "disuse": {
+    "at": "2026-07-19T06:37:12.455Z",
+    "by": 0,
+    "reason": "事件改为可多次触发；优化渲染；runPanelJS 加安全警告；销毁时清理事件监听器；面板添加最小尺寸和边界限制。功能未完全实现，获取数据报告积木不可用。"
+  }
+}

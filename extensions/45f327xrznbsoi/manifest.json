@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "id": "45f327xrznbsoi",
+  "slug": "ext-45f327",
+  "name": "公历农历·节日·计时",
+  "description": "作者：dhdbvcg",
+  "status": "published",
+  "hidden": true,
+  "category": [
+    "实用",
+    "运算",
+    "CYSO",
+    "网络"
+  ],
+  "is_cyso": true,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 6,
+  "author_name_snapshot": "dhdbvcg",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 29925,
+      "sha": "b020d3bc8d479e17416e971fd3ab3e5b2f9928b3",
+      "at": "2026-11-08T04:11:33.695Z"
+    }
+  ],
+  "created_at": "2026-07-28T11:10:01.466Z",
+  "updated_at": "2026-08-19T12:52:53.138Z",
+  "cover": "cover.png",
+  "published_at": "2026-07-28T13:48:42.276Z"
+}
