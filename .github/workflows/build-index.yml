@@ -14,8 +14,10 @@ name: Build index
 on:
   push:
     branches: [main]
+    # 只监听真源文件：新提交会先写脚本/封面、最后写 manifest，
+    # 如果监听整个 extensions/**，前两次提交会在「目录还没有 manifest」时触发并失败。
     paths:
-      - 'extensions/**'
+      - 'extensions/**/manifest.json'
   workflow_dispatch:
     inputs:
       reason:
