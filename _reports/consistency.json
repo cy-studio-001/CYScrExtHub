@@ -1,0 +1,25 @@
+{
+  "request_id": "test-1794627636",
+  "generated_at": "2026-11-14T03:40:57.176Z",
+  "commit": "c4f7c615fbbcb11764985b649c9772dc5da2eecd",
+  "counts": {
+    "extensions": 99,
+    "manifests": 99,
+    "missing_manifests": 0,
+    "invalid_manifests": 0,
+    "missing_files": 0,
+    "orphan_files": 0,
+    "size_mismatch": 0,
+    "sha_mismatch": 0,
+    "stale_staging": 0
+  },
+  "missing_manifests": [],
+  "invalid_manifests": [],
+  "missing_files": [],
+  "orphan_files": [],
+  "size_mismatch": [],
+  "sha_mismatch": [],
+  "stale_staging_files": [],
+  "orphan_files_found": 0,
+  "missing_files_found": 0
+}
