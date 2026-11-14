@@ -39,8 +39,16 @@ jobs:
             exit 0
           fi
           git commit -m "chore(report): consistency check [skip ci]"
+          pushed=0
           for attempt in 1 2 3; do
-            git pull --rebase --autostash && git push && break
+            if git pull --rebase --autostash && git push; then
+              pushed=1
+              break
+            fi
             echo "push 失败，第 $attempt 次重试"
             sleep 2
           done
+          if [ "$pushed" != "1" ]; then
+            echo "报告推送失败"
+            exit 1
+          fi
