@@ -1,0 +1,46 @@
+name: consistency-check
+
+on:
+  repository_dispatch:
+    types: [consistency-check]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: consistency-check
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run consistency check
+        env:
+          REQUEST_ID: ${{ github.event.client_payload.request_id || 'manual' }}
+        run: node scripts/migrate-v2/consistency-report.mjs --root . --request-id "$REQUEST_ID"
+
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _reports/consistency.json
+          if git diff --cached --quiet; then
+            echo "报告无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(report): consistency check [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            echo "push 失败，第 $attempt 次重试"
+            sleep 2
+          done
