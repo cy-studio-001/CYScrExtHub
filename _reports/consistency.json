@@ -1,7 +1,7 @@
 {
-  "request_id": "3d156b00-e62e-482b-8c6c-a1dd4be59418",
-  "generated_at": "2026-11-14T03:45:27.539Z",
-  "commit": "9f98486d5e4b630143a085c2830c2452645d8539",
+  "request_id": "verify-clean-1794630496",
+  "generated_at": "2026-11-14T04:28:33.395Z",
+  "commit": "eb2c976b7604c4946485d390d9b409dc3175a24f",
   "counts": {
     "extensions": 99,
     "manifests": 99,
@@ -21,5 +21,8 @@
   "sha_mismatch": [],
   "stale_staging_files": [],
   "orphan_files_found": 0,
-  "missing_files_found": 0
+  "missing_files_found": 0,
+  "applied": true,
+  "deleted_files": [],
+  "backup_tag": "backup/cleanup-20261114042832-verifycl"
 }
