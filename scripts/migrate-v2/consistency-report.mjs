@@ -20,6 +20,8 @@ function arg(name, fallback) {
 
 const ROOT = path.resolve(arg('--root', '.'));
 const REQUEST_ID = arg('--request-id', 'manual');
+const APPLY = args.includes('--apply');
+const BACKUP_TAG = process.env.BACKUP_TAG || '';
 const REPORT_PATH = path.join(ROOT, '_reports', 'consistency.json');
 const STAGING_MAX_AGE_MS = 24 * 60 * 60 * 1000;
 
@@ -167,6 +169,34 @@ report.counts.stale_staging = report.stale_staging_files.length;
 // 管理后台沿用这些字段名，避免前端再做一次映射
 report.orphan_files_found = report.orphan_files.length;
 report.missing_files_found = report.missing_files.length;
+report.applied = false;
+report.deleted_files = [];
+report.backup_tag = BACKUP_TAG;
+
+if (APPLY) {
+    const removable = [
+        ...report.orphan_files.map((item) => item.path),
+        ...report.stale_staging_files,
+    ].filter((rel) => (rel.startsWith('extensions/') || rel.startsWith('_staging/')));
+    // manifest 永远不参与删除
+    const safe = removable.filter((rel) => !rel.endsWith('/manifest.json'));
+
+    for (const rel of safe) {
+        const full = path.resolve(ROOT, rel);
+        const relative = path.relative(ROOT, full);
+        if (relative.startsWith('..') || path.isAbsolute(relative)) continue;
+        try {
+            fs.rmSync(full, { force: true });
+            report.deleted_files.push(rel);
+        } catch (error) {
+            console.error(`[consistency] 删除失败 ${rel}: ${error.message}`);
+        }
+    }
+
+    report.applied = true;
+    console.log(`[consistency] 已删除 ${report.deleted_files.length} 个文件`);
+    if (BACKUP_TAG) console.log(`[consistency] 备份标签 ${BACKUP_TAG}`);
+}
 
 fs.mkdirSync(path.dirname(REPORT_PATH), { recursive: true });
 fs.writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2) + '\n');

@@ -15,6 +15,9 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
+    env:
+      REQUEST_ID: ${{ github.event.client_payload.request_id || 'manual' }}
+      MODE: ${{ github.event.client_payload.mode || 'check' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,21 +27,39 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Create backup tag
+        if: env.MODE == 'clean'
+        id: backup
+        run: |
+          SHORT=$(echo "$REQUEST_ID" | tr -cd '[:alnum:]' | cut -c1-8)
+          TAG="backup/cleanup-$(date -u +%Y%m%d%H%M%S)-$SHORT"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag "$TAG"
+          git push origin "$TAG"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "备份标签：$TAG"
+
       - name: Run consistency check
-        env:
-          REQUEST_ID: ${{ github.event.client_payload.request_id || 'manual' }}
+        if: env.MODE != 'clean'
         run: node scripts/migrate-v2/consistency-report.mjs --root . --request-id "$REQUEST_ID"
+
+      - name: Run consistency check and cleanup
+        if: env.MODE == 'clean'
+        env:
+          BACKUP_TAG: ${{ steps.backup.outputs.tag }}
+        run: node scripts/migrate-v2/consistency-report.mjs --root . --request-id "$REQUEST_ID" --apply
 
       - name: Commit report
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _reports/consistency.json
+          git add -A
           if git diff --cached --quiet; then
-            echo "报告无变化，跳过提交"
+            echo "无变化，跳过提交"
             exit 0
           fi
-          git commit -m "chore(report): consistency check [skip ci]"
+          git commit -m "chore(report): consistency $MODE [skip ci]"
           pushed=0
           for attempt in 1 2 3; do
             if git pull --rebase --autostash && git push; then
