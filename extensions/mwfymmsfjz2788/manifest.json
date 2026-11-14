@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "mwfymmsfjz2788",
+  "slug": "cyso-core",
+  "name": "CYSO CORE+",
+  "description": "CYSO CORE+",
+  "status": "pending",
+  "hidden": false,
+  "category": [
+    "CYSO",
+    "实用"
+  ],
+  "is_cyso": true,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 1,
+  "author_name_snapshot": "cy_studio",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 23266,
+      "sha": "7aea3f8637036c92b7a9d58e07488ad6b342dee6",
+      "at": "2026-11-14T05:23:28.744Z"
+    }
+  ],
+  "created_at": "2026-11-14T05:23:28.746Z",
+  "updated_at": "2026-11-14T05:23:28.746Z",
+  "cover": "cover.webp",
+  "review": {
+    "submitted_at": "2026-11-14T05:23:28.746Z",
+    "submitted_by": 1,
+    "is_rereview": false,
+    "rereview_note": ""
+  }
+}
