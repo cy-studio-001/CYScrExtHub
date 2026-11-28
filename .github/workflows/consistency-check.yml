@@ -1,0 +1,78 @@
+name: consistency-check
+
+on:
+  repository_dispatch:
+    types: [consistency-check]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: consistency-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      REQUEST_ID: ${{ github.event.client_payload.request_id || 'manual' }}
+      MODE: ${{ github.event.client_payload.mode || 'check' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create backup tag
+        if: env.MODE == 'clean'
+        id: backup
+        run: |
+          SHORT=$(echo "$REQUEST_ID" | tr -cd '[:alnum:]' | cut -c1-8)
+          TAG="backup/cleanup-$(date -u +%Y%m%d%H%M%S)-$SHORT"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag "$TAG"
+          git push origin "$TAG"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "备份标签：$TAG"
+
+      - name: Run consistency check
+        if: env.MODE != 'clean'
+        run: node scripts/migrate-v2/consistency-report.mjs --root . --request-id "$REQUEST_ID"
+
+      - name: Run consistency check and cleanup
+        if: env.MODE == 'clean'
+        env:
+          BACKUP_TAG: ${{ steps.backup.outputs.tag }}
+        run: node scripts/migrate-v2/consistency-report.mjs --root . --request-id "$REQUEST_ID" --apply
+
+      - name: Commit as single snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # 单一快照：以最新内容重建根提交并强制替换 main，
+          # 把累积的 manifest 提交与本报告变更一并折叠；重试时换基座到最新远端
+          for attempt in 1 2 3; do
+            git fetch origin main --depth=1
+            git reset --soft FETCH_HEAD
+            TREE=$(git write-tree)
+            REMOTE_TREE=$(git rev-parse FETCH_HEAD^{tree})
+            if [ "$TREE" = "$REMOTE_TREE" ]; then
+              echo "无变化，跳过快照"
+              exit 0
+            fi
+            NEW=$(git commit-tree "$TREE" -m "snapshot: sync extensions and index [skip ci]")
+            if git push --force origin "$NEW:refs/heads/main"; then
+              echo "单一快照已推送"
+              exit 0
+            fi
+            echo "推送失败，第 ${attempt} 次重试"
+            sleep 2
+          done
+          echo "快照推送失败" >&2
+          exit 1

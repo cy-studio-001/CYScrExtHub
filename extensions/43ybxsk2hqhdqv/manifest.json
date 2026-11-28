@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "43ybxsk2hqhdqv",
+  "slug": "glm-ai",
+  "name": "GLM AI",
+  "description": "使用deep seek做的通过GLM的免费AI做的",
+  "status": "published",
+  "hidden": true,
+  "category": [
+    "AI",
+    "实用",
+    "网络",
+    "多媒体",
+    "运算"
+  ],
+  "is_cyso": false,
+  "is_repost": false,
+  "original_author": "",
+  "doc_url": "",
+  "author_id": 6,
+  "author_name_snapshot": "dhdbvcg",
+  "version": "1.0.0",
+  "current": "1.0.0.js",
+  "files": [
+    {
+      "name": "1.0.0.js",
+      "version": "1.0.0",
+      "size": 15557,
+      "sha": "a8508787f40a23b14061b8d0abd3f5f83871fb24",
+      "at": "2026-11-08T04:11:33.389Z"
+    }
+  ],
+  "created_at": "2026-07-21T13:14:44.011Z",
+  "updated_at": "2026-08-19T12:58:32.370Z",
+  "cover": "cover.webp",
+  "published_at": "2026-07-21T13:42:39.212Z"
+}
